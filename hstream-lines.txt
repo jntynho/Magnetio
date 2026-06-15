@@ -1,0 +1,9 @@
+Line 10: <link rel="preload" href="https://fonts.bunny.net/figtree/files/figtree-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+Line 11: <link rel="preload" href="https://fonts.bunny.net/figtree/files/figtree-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+Line 12: <link rel="preload" href="https://fonts.bunny.net/figtree/files/figtree-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+Line 13: <link rel="preload" href="https://fonts.bunny.net/figtree/files/figtree-latin-ext-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+Line 36: <meta property="og:type" content="video.episode" />
+Line 354: <div id="player-alert" class="hidden mb-4 rounded-lg bg-danger-100 px-6 py-5 text-base text-danger-700" role="alert">
+Line 358: <video id="player" playsinline controls crossorigin class="absolute inset-0 w-full h-full"></video>
+Line 923: <!--[if BLOCK]><![endif]-->                    <div class="text-gray-700 dark:text-gray-200"><p>Check the credits at the end of the video</p>
+Line 1669: urlInput.value = url + "?t=" + parseInt(player.currentTime);

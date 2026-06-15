@@ -1,0 +1,959 @@
+{
+  "id": 330051,
+  "siteId": 3361,
+  "type": "tour",
+  "name": "PC_MPF_SFW_Default",
+  "description": "MyPervyFamily PC SFW Default tour",
+  "gatewayInstanceId": 5941,
+  "useNewGateway": false,
+  "storeId": null,
+  "isMarketplace": false,
+  "isForexActive": true,
+  "isArchived": false,
+  "variables": [
+    {
+      "name": "AFFILIATE_URL",
+      "type": "url",
+      "value": "https://www.adultforce.com"
+    },
+    {
+      "name": "BAD_LOGIN_MO_UNAUTHORIZED_ATTEMPT",
+      "type": "asset",
+      "value": "https://images-assets-ht.project1content.com/BangBros/BadLogin/649dc8fb9b3ec8.83650606.png"
+    },
+    {
+      "name": "BAD_LOGIN_PC_TRY_AGAIN",
+      "type": "asset",
+      "value": "https://images-assets-ht.project1content.com/BangBros/BadLogin/649dcdcb2eb5f5.98577246.png"
+    },
+    {
+      "name": "BAD_LOGIN_PC_UNAUTHORIZED_ATTEMPT",
+      "type": "asset",
+      "value": "https://images-assets-ht.project1content.com/BangBros/BadLogin/649dc8fb9b4677.83692611.png"
+    },
+    {
+      "name": "BAD_LOGIN_URL",
+      "type": "url",
+      "value": "https://www.mypervyfamily.com/badlogin"
+    },
+    {
+      "name": "CANCELLATION_POLICY_LABEL",
+      "type": "string",
+      "value": "CANCELLATION POLICY"
+    },
+    {
+      "name": "CANCELLATION_POLICY_URL",
+      "type": "url",
+      "value": "https://www.mypervyfamily.com/legal/tos#cancel"
+    },
+    {
+      "name": "CRR_SUPPORT",
+      "type": "string",
+      "value": "mypervyfamilysupport@probiller.com"
+    },
+    {
+      "name": "DISCLAIMER_EXIT_URL",
+      "type": "url",
+      "value": "https://www.google.com"
+    },
+    {
+      "name": "DISCLAIMER_PARAGRAPH_1",
+      "type": "string",
+      "value": "This website contains age-restricted materials. If you are under the age of 18 years, or under the age of majority in the location from where you are accessing this website you do not have authorization or permission to enter this website or access any of its materials. If you are over the age of 18 years or over the age of majority in the location from where you are accessing this website by entering the website you hereby agree to comply with all the <a href='https://www.mypervyfamily.com/legal/tos' target='_blank' rel='nofollow'>TERMS AND CONDITIONS</a>. You also acknowledge and agree that you are not offended by nudity and explicit depictions of sexual activity."
+    },
+    {
+      "name": "DISCLAIMER_PARAGRAPH_2",
+      "type": "string",
+      "value": "<b>By clicking on the 'Enter' button, and by entering this website you agree with all the above and certify under penalty of perjury that you are an adult.</b>"
+    },
+    {
+      "name": "FEEDBACK_LABEL",
+      "type": "string",
+      "value": "FEEDBACK"
+    },
+    {
+      "name": "FEEDBACK_URL",
+      "type": "string",
+      "value": "/feedback"
+    },
+    {
+      "name": "FOOTER_PORN_DIRECTORY_LABEL",
+      "type": "string",
+      "value": "PORN DIRECTORY"
+    },
+    {
+      "name": "FOOTER_PORN_DIRECTORY_URL",
+      "type": "string",
+      "value": "/sitemap"
+    },
+    {
+      "name": "FOOTER_PRIVACY_NOTICE_LABEL",
+      "type": "string",
+      "value": "PRIVACY NOTICE"
+    },
+    {
+      "name": "FOOTER_PRIVACY_NOTICE_URL",
+      "type": "url",
+      "value": "https://www.mypervyfamily.com/legal/privacy"
+    },
+    {
+      "name": "FOOTER_SUPPORT_LABEL",
+      "type": "string",
+      "value": "SUPPORT"
+    },
+    {
+      "name": "FOOTER_SUPPORT_URL",
+      "type": "url",
+      "value": "https://support.mypervyfamily.com"
+    },
+    {
+      "name": "FOOTER_TERMS_CONDITIONS_LABEL",
+      "type": "string",
+      "value": "TERMS AND CONDITIONS"
+    },
+    {
+      "name": "FOOTER_TERMS_CONDITIONS_URL",
+      "type": "url",
+      "value": "https://www.mypervyfamily.com/legal/tos"
+    },
+    {
+      "name": "INQUIRY_TEXT",
+      "type": "string",
+      "value": "Trademarks are owned under common law by Cash Productions Inc and used under license by AYLO Premium Ltd."
+    },
+    {
+      "name": "JOINF_URL",
+      "type": "string",
+      "value": "/joinf"
+    },
+    {
+      "name": "JOIN_URL",
+      "type": "string",
+      "value": "/join"
+    },
+    {
+      "name": "LEGACY_LOGIN_URL",
+      "type": "url",
+      "value": "https://tour.mypervyfamily.com/en/login"
+    },
+    {
+      "name": "LEGAL_DISCLAIMER_TEXT",
+      "type": "string",
+      "value": "All models appearing on this website are 18 years or older. Click <a href='https://www.mypervyfamily.com/legal/2257'>here</a> for records required pursuant to 18 U.S.C. 2257 Record Keeping Requirements Compliance Statement. By entering this site you swear that you are of legal age in your area to view adult material and that you wish to view such material. Please visit our Authorized Payment Processors <a href='https://secure.vend-o.com/customers/profile/login/'>Vendo</a> <a href='https://cs.segpay.com/'>Segpay</a>."
+    },
+    {
+      "name": "LOGIN_URL",
+      "type": "url",
+      "value": "https://site-ma.mypervyfamily.com/"
+    },
+    {
+      "name": "MARKETING_TEXT",
+      "type": "string",
+      "value": "©2026 Aylo Premium Ltd. All Rights Reserved."
+    },
+    {
+      "name": "MA_APPROVAL_CC_STATEMENT_DESCRIPTOR",
+      "type": "string",
+      "value": "PROBILLER.COM 855-232-9555 or VendoStore*AYB +442031399063"
+    },
+    {
+      "name": "MA_SUPPORT_LABEL_US",
+      "type": "string",
+      "value": "SUPPORT"
+    },
+    {
+      "name": "PROBILLER_TEXT",
+      "type": "string",
+      "value": "We use Probiller as our trusted biller"
+    },
+    {
+      "name": "TC_LOYALTY_LABEL",
+      "type": "string",
+      "value": "Loyalty & Rewards Program Terms & Conditions"
+    },
+    {
+      "name": "TC_LOYALTY_URL",
+      "type": "url",
+      "value": "https://www.mypervyfamily.com/legal/loyaltytos"
+    }
+  ],
+  "contentFilter": {
+    "brandId": null,
+    "collectionId": null,
+    "tagId": null,
+    "actorId": null,
+    "groupId": null
+  },
+  "routeListId": 2,
+  "isMgpg": false,
+  "isSfw": true,
+  "instanceVariables": [],
+  "instanceRules": {
+    "canDownloadBts": true,
+    "canDownloadGallery": true,
+    "canDownloadMovie": true,
+    "canDownloadScene": true,
+    "canDownloadTrailer": true,
+    "canPlayBts": true,
+    "canViewGallery": true,
+    "canPlayMovie": true,
+    "canPlayScene": true,
+    "canPlayTrailer": true,
+    "canListComments": true,
+    "canAddComment": true,
+    "canLikeActor": true,
+    "canLikeBts": true,
+    "canLikeCollection": true,
+    "canLikeGallery": true,
+    "canLikeMovie": true,
+    "canLikeScene": true,
+    "canLikeSeries": true,
+    "canLikeTag": true,
+    "canLikeTrailer": true,
+    "canViewHistory": true,
+    "canAddFavorite": true,
+    "canAddWatchlater": true
+  },
+  "upcomingRules": {
+    "isEnabled": false,
+    "isUnlocked": false,
+    "releaseLimit": 0,
+    "playableCount": 0,
+    "badgeText": ""
+  },
+  "instanceConfigs": [
+    {
+      "name": "atlasConfig",
+      "value": "{\"enabled\":true}"
+    },
+    {
+      "name": "backofferConfig",
+      "value": "{}"
+    },
+    {
+      "name": "backtotopbuttonConfig",
+      "value": "{\"showTopButton\":true,\"shouldOverrideBottomPosition\":false}"
+    },
+    {
+      "name": "contentCockblockConfig",
+      "value": "{\"scene\":{\"isEnabled\":false},\"trailer\":{\"isEnabled\":false}}"
+    },
+    {
+      "name": "contentDisplayOptionsConfig",
+      "value": "{\"showHeader\":false,\"showTitle\":true,\"showDate\":true,\"showSite\":false,\"shortNameOption\":\"collection\",\"showSecondaryContentShortNameOption\":false,\"showInteractions\":true,\"showPopularity\":false,\"actions\":{\"showAddToFavorites\":false,\"showWatchLater\":false},\"player\":{\"showGallery\":true,\"showTrailer\":true},\"talent\":{\"genderPriority\":\"female\",\"showFirstNamesOnly\":false}}"
+    },
+    {
+      "name": "contentFilterConfig",
+      "value": "{}"
+    },
+    {
+      "name": "customLogoutIframeConfig",
+      "value": "{}"
+    },
+    {
+      "name": "customLogoutLoginConfig",
+      "value": "{}"
+    },
+    {
+      "name": "darkDistrictConfig",
+      "value": "{\"sexualOrientation\":\"straight\",\"showAllowRecommendations\":false}"
+    },
+    {
+      "name": "downloadConfig",
+      "value": "{\"gallery\":1,\"trailer\":1,\"scene\":1,\"bts\":1}"
+    },
+    {
+      "name": "failedLoginAttemptsConfig",
+      "value": "{}"
+    },
+    {
+      "name": "flirt4FreeConfig",
+      "value": "{}"
+    },
+    {
+      "name": "gatewayDomainsConfig",
+      "value": "{\"paymentService\":\"MGPG\",\"useP1GatewayV2\":true,\"gatewayInstanceId\":5941,\"maDomainProtocol\":\"https://\",\"maDomain\":\"site-ma.mypervyfamily.com\"}"
+    },
+    {
+      "name": "languageSelectConfig",
+      "value": "{\"languageSelected\":\"en\"}"
+    },
+    {
+      "name": "legalLinksConfig",
+      "value": "{}"
+    },
+    {
+      "name": "listConfig",
+      "value": "{\"history\":false,\"favorite\":1,\"watchLater\":1}"
+    },
+    {
+      "name": "marketplaceStoreConfig",
+      "value": "{}"
+    },
+    {
+      "name": "metaTagsConfig",
+      "value": "{\"robots\":\"index, follow\",\"canonical\":{\"options\":{\"singularFilter\":false}},\"metaTags\":{\"metaTitle\":\"{{site}}\"}}"
+    },
+    {
+      "name": "microtransactionConfig",
+      "value": "{}"
+    },
+    {
+      "name": "navigationConfig",
+      "value": "{\"desktop\":{\"path\":\"home\"},\"mobile\":{}}"
+    },
+    {
+      "name": "pixelTrackingConfig",
+      "value": "{\"isEnabled\":false,\"hasThirdPartyTracking\":false}"
+    },
+    {
+      "name": "playbackConfig",
+      "value": "{\"upcomingScenes\":false,\"scene\":false,\"hasTourContinuity\":false,\"groupIds\":\"\",\"collectionIds\":\"\",\"tagIds\":\"\",\"hasSceneTourContinuity\":false,\"hasCollectionIdContinuity\":false,\"comments\":1,\"avatar\":\"\",\"likes\":1,\"model\":1,\"logHistory\":0,\"showTimeline\":true,\"expandTimeline\":true,\"disablePictureOnPicture\":false,\"allowFlagContent\":false,\"gallery\":false,\"trailer\":true,\"bts\":false,\"sceneDetails\":0}"
+    },
+    {
+      "name": "previewConfig",
+      "value": "{\"images\":{\"enabled\":true},\"video\":{\"enabled\":true},\"priority\":\"video\",\"disableOverlay\":false}"
+    },
+    {
+      "name": "renderingConfig",
+      "value": "{\"enableStructuredData\":true,\"enableSsr\":true}"
+    },
+    {
+      "name": "rootFilesConfig",
+      "value": "{\"hasRootFile\":{\"robots.txt\":true,\"humans.txt\":false},\"robotsBody\":\"User-agent: *\\nDisallow: /models?sortby=*\\nDisallow: /videos/sortby/ \\nSitemap: https://mypervyfamily.com/sitemaps.xml\",\"robots.txt\":\"{\\\"headers\\\":{\\\"Content-Type\\\":\\\"text/plain; charset=utf-8\\\"},\\\"body\\\":\\\"User-agent: *\\\\nDisallow: /models?sortby=*\\\\nDisallow: /videos/sortby/ \\\\nSitemap: https://mypervyfamily.com/sitemaps.xml\\\"}\"}"
+    },
+    {
+      "name": "routeListsConfig",
+      "value": "{\"trailers\":{\"trailer2scene\":true},\"routeLists\":2}"
+    },
+    {
+      "name": "seoAltTitleConfig",
+      "value": "{}"
+    },
+    {
+      "name": "sfwConfig",
+      "value": "{\"isSfw\":true}"
+    },
+    {
+      "name": "socialLinksConfig",
+      "value": "{\"includeOutlets\":{}}"
+    },
+    {
+      "name": "socialLoginConfig",
+      "value": "{}"
+    },
+    {
+      "name": "themeConfig",
+      "value": "{\"themeId\":\"12851\"}"
+    }
+  ],
+  "themeConfigs": [
+    {
+      "name": "colorConfig",
+      "value": "{\"primary\":\"#2857f7\",\"background\":\"#ffffff\",\"text\":\"#000000\",\"card\":\"#2857f7\",\"menuBg\":\"#dadada\"}"
+    },
+    {
+      "name": "gridConfig",
+      "value": "{\"breakpoints\":{\"base\":0,\"small\":450,\"medium\":800,\"large\":1000,\"extra-large\":1300,\"huge\":1600},\"containers\":{\"small\":\"100%\",\"medium\":\"750px\",\"large\":\"975px\",\"extra-large\":\"1200px\",\"huge\":\"1500px\"},\"releasesPerRow\":{\"small\":2,\"medium\":3,\"large-up\":4,\"extra-large\":4,\"huge\":4},\"actorsPerRow\":{\"small\":2,\"medium\":3,\"large-up\":4,\"extra-large\":4,\"huge\":6},\"size\":12,\"gutter\":\"15px\"}"
+    },
+    {
+      "name": "assetsConfig",
+      "value": "{\"logo\":\"http://cdn.hw.assets.realitykings.com/Rk/Base/Ma/assets/img/components/header/logo-bare2.png\",\"imageRatios\":{\"actorList\":\"0.625\",\"actorProfile\":\"0.75\",\"sceneList\":\"1.5\"}}"
+    }
+  ],
+  "structures": [
+    {
+      "id": 8086321,
+      "parentId": null,
+      "status": "enabled",
+      "structure": "{\"id\":1,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":62876092981,\"parentId\":1,\"children\":[],\"attributes\":{\"_id\":\"Children\"},\"nodeName\":\"Children\",\"siblings\":[90603849077]},{\"id\":90603849077,\"parentId\":1,\"children\":[],\"siblings\":[62876092981],\"nodeName\":\"PopupGroupBlock\",\"attributes\":{\"_id\":\"DisclaimerBlock\",\"legalTxt1\":\"$DISCLAIMER_PARAGRAPH_1\",\"legalTxt2\":\"$DISCLAIMER_PARAGRAPH_2\",\"legalTxtColor\":\"#000000\",\"legalTxtBgColor\":\"#FFFFFF\",\"legalTxtBgOpacity\":100,\"displayLogo\":true,\"logoPosition\":\"center\",\"overlayColor\":\"#ffffff\",\"overlayOpacity\":100,\"enterButtonStyles\":{\"label\":\"ENTER\",\"backgroundColor\":\"#A4FF2F\",\"color\":\"#000000\",\"hoverColor\":\"#000000\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#A4FF2F\",\"hoverBorderColor\":\"#A4FF2F\",\"padding\":\"15px 15px 15px 15px\",\"hoverBackgroundColor\":\"#A4FF2F\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"exitButtonStyles\":{\"label\":\"EXIT\",\"backgroundColor\":\"#666666\",\"color\":\"#ffffff\",\"hoverColor\":\"#ffffff\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#666666\",\"hoverBorderColor\":\"#666666\",\"padding\":\"15px 15px 15px 15px\",\"shouldOpenNewTab\":false,\"path\":\"custom\",\"url\":\"$DISCLAIMER_EXIT_URL\",\"hoverBackgroundColor\":\"#666666\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"includeLoginJoinButtons\":false,\"enterExitButtonPosition\":\"under\",\"logoImageSrc\":\"https://static-landing-assets.project1content.com/P1TOUR/MPF/Gateway/296x82.png\",\"imgSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\",\"mobileImageSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\"}}],\"metaTagsConfig\":\"{}\",\"type\":\"layout\",\"themeConfig\":{},\"isUpdated\":true}",
+      "type": "layout",
+      "name": "Blank",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086331,
+      "parentId": null,
+      "status": "enabled",
+      "structure": "{\"id\":1,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":39001004818,\"parentId\":1,\"children\":[],\"attributes\":{\"_id\":\"Children\"},\"nodeName\":\"Children\",\"siblings\":[12914006509,13881797355]},{\"id\":12914006509,\"parentId\":1,\"children\":[{\"id\":58975620715,\"parentId\":12914006509,\"children\":[{\"id\":7380817425,\"parentId\":58975620715,\"children\":[{\"id\":60343742426,\"parentId\":7380817425,\"children\":[{\"id\":52510120932,\"parentId\":60343742426,\"children\":[{\"id\":39852472611,\"parentId\":52510120932,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[16487135905],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"2.5em\",\"bottomMargin\":\"2.5em\"}},{\"id\":16487135905,\"parentId\":7380817425,\"children\":[{\"id\":80871707928,\"parentId\":16487135905,\"children\":[{\"id\":58199577860,\"parentId\":80871707928,\"children\":[],\"siblings\":[],\"nodeName\":\"FooterBlock\",\"attributes\":{\"_id\":\"FooterBlock\",\"title\":\"Footer\",\"textAlign\":\"center\",\"desktopFooterLinks\":[{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_PRIVACY_NOTICE_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PRIVACY_NOTICE_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_TERMS_CONDITIONS_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_TERMS_CONDITIONS_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_SUPPORT_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_SUPPORT_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":false,\"label\":\"$FOOTER_PORN_DIRECTORY_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PORN_DIRECTORY_URL\"},{\"shouldOpenNewTab\":true,\"label\":\"Login\",\"path\":\"custom\",\"customPath\":\"$LOGIN_URL\",\"isNoFollow\":true}],\"tagLine\":\"$MARKETING_TEXT\",\"inquiryText\":\"$INQUIRY_TEXT\",\"legalText\":\"$LEGAL_DISCLAIMER_TEXT\",\"customVisualAttributes\":{\"linkColor\":\"#ffffff\",\"linkColorOnHover\":\"#ffffff\",\"businessLinkColor\":\"#ffffff\",\"businessLinkColorOnHover\":\"#ffffff\"},\"footerLogos\":{\"probillerEnable\":true,\"probillerLink\":\"\",\"probillerText\":\"$PROBILLER_TEXT\",\"rtaEnable\":true,\"mgEnable\":true},\"hasRssFeed\":false,\"hasSameLinksForMobile\":true}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[60343742426],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"BackgroundWrapperBlock\",\"styles\":{\"enableMediabookAsset\":false,\"backgrounds\":[{\"backgroundType\":\"gradient\",\"backgroundSize\":\"cover\",\"background\":\"linear-gradient(180deg, #000000 0%, #000000 100%);\"}],\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"minHeight\":\"1em\",\"matchParentHeight\":false,\"paddingMultiplier\":0,\"backgroundColor\":\"#000000\",\"verticalAlign\":\"flex-start\",\"horizontalAlignment\":\"center\"},\"continuity\":{\"enableContinuity\":false}}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[39001004818,13881797355],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}},{\"id\":13881797355,\"parentId\":1,\"children\":[],\"siblings\":[39001004818,12914006509],\"nodeName\":\"PopupGroupBlock\",\"attributes\":{\"_id\":\"DisclaimerBlock\",\"legalTxt1\":\"$DISCLAIMER_PARAGRAPH_1\",\"legalTxt2\":\"$DISCLAIMER_PARAGRAPH_2\",\"legalTxtColor\":\"#000000\",\"legalTxtBgColor\":\"#FFFFFF\",\"legalTxtBgOpacity\":100,\"displayLogo\":true,\"logoPosition\":\"center\",\"overlayColor\":\"#ffffff\",\"overlayOpacity\":100,\"enterButtonStyles\":{\"label\":\"ENTER\",\"backgroundColor\":\"#A4FF2F\",\"color\":\"#000000\",\"hoverColor\":\"#000000\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#A4FF2F\",\"hoverBorderColor\":\"#A4FF2F\",\"padding\":\"15px 15px 15px 15px\",\"hoverBackgroundColor\":\"#A4FF2F\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"exitButtonStyles\":{\"label\":\"EXIT\",\"backgroundColor\":\"#666666\",\"color\":\"#ffffff\",\"hoverColor\":\"#ffffff\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#666666\",\"hoverBorderColor\":\"#666666\",\"padding\":\"15px 15px 15px 15px\",\"shouldOpenNewTab\":false,\"path\":\"custom\",\"url\":\"$DISCLAIMER_EXIT_URL\",\"hoverBackgroundColor\":\"#666666\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"includeLoginJoinButtons\":false,\"enterExitButtonPosition\":\"under\",\"logoImageSrc\":\"https://static-landing-assets.project1content.com/P1TOUR/MPF/Gateway/296x82.png\",\"imgSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\",\"mobileImageSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\"}}],\"type\":\"layout\",\"themeConfig\":{},\"metaTagsConfig\":\"{}\",\"isUpdated\":true}",
+      "type": "layout",
+      "name": "Default",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086351,
+      "parentId": null,
+      "status": "enabled",
+      "structure": "{\"id\":64627626801,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":44030011801,\"parentId\":64627626801,\"children\":[],\"attributes\":{\"_id\":\"Children\"},\"nodeName\":\"Children\",\"siblings\":[38222714705,68919831729]},{\"id\":38222714705,\"parentId\":64627626801,\"children\":[{\"id\":49539022881,\"parentId\":38222714705,\"children\":[{\"id\":86219629817,\"parentId\":49539022881,\"children\":[{\"id\":91660276466,\"parentId\":86219629817,\"children\":[{\"id\":36238126962,\"parentId\":91660276466,\"children\":[{\"id\":2141138310,\"parentId\":36238126962,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[9407363444],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"2.5em\",\"bottomMargin\":\"2.5em\"}},{\"id\":9407363444,\"parentId\":86219629817,\"children\":[{\"id\":51009839212,\"parentId\":9407363444,\"children\":[{\"id\":21208282411,\"parentId\":51009839212,\"children\":[],\"siblings\":[],\"nodeName\":\"FooterBlock\",\"attributes\":{\"_id\":\"FooterBlock\",\"title\":\"Footer\",\"textAlign\":\"center\",\"desktopFooterLinks\":[{\"shouldOpenNewTab\":false,\"label\":\"$FOOTER_PORN_DIRECTORY_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PORN_DIRECTORY_URL\"},{\"shouldOpenNewTab\":true,\"label\":\"Login\",\"path\":\"custom\",\"customPath\":\"$LOGIN_URL\",\"isNoFollow\":true}],\"tagLine\":\"$MARKETING_TEXT\",\"inquiryText\":\"$INQUIRY_TEXT\",\"legalText\":\"$LEGAL_DISCLAIMER_TEXT\",\"customVisualAttributes\":{\"linkColor\":\"#ffffff\",\"linkColorOnHover\":\"#ffffff\",\"businessLinkColor\":\"#ffffff\",\"businessLinkColorOnHover\":\"#ffffff\"},\"footerLogos\":{\"probillerEnable\":true,\"probillerLink\":\"\",\"probillerText\":\"$PROBILLER_TEXT\",\"rtaEnable\":true,\"mgEnable\":true},\"hasRssFeed\":false,\"hasSameLinksForMobile\":true}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[91660276466],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"BackgroundWrapperBlock\",\"styles\":{\"enableMediabookAsset\":false,\"backgrounds\":[{\"backgroundType\":\"gradient\",\"backgroundSize\":\"cover\",\"background\":\"linear-gradient(180deg, #000000 0%, #000000 100%);\"}],\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"minHeight\":\"1em\",\"matchParentHeight\":false,\"paddingMultiplier\":0,\"backgroundColor\":\"#000000\",\"verticalAlign\":\"flex-start\",\"horizontalAlignment\":\"center\"},\"continuity\":{\"enableContinuity\":false}}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[44030011801,68919831729],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}},{\"id\":68919831729,\"parentId\":64627626801,\"children\":[],\"siblings\":[44030011801,38222714705],\"nodeName\":\"PopupGroupBlock\",\"attributes\":{\"_id\":\"DisclaimerBlock\",\"legalTxt1\":\"$DISCLAIMER_PARAGRAPH_1\",\"legalTxt2\":\"$DISCLAIMER_PARAGRAPH_2\",\"legalTxtColor\":\"#000000\",\"legalTxtBgColor\":\"#FFFFFF\",\"legalTxtBgOpacity\":100,\"displayLogo\":true,\"logoPosition\":\"center\",\"overlayColor\":\"#ffffff\",\"overlayOpacity\":100,\"enterButtonStyles\":{\"label\":\"ENTER\",\"backgroundColor\":\"#A4FF2F\",\"color\":\"#000000\",\"hoverColor\":\"#000000\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#A4FF2F\",\"hoverBorderColor\":\"#A4FF2F\",\"padding\":\"15px 15px 15px 15px\",\"hoverBackgroundColor\":\"#A4FF2F\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"exitButtonStyles\":{\"label\":\"EXIT\",\"backgroundColor\":\"#666666\",\"color\":\"#ffffff\",\"hoverColor\":\"#ffffff\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#666666\",\"hoverBorderColor\":\"#666666\",\"padding\":\"15px 15px 15px 15px\",\"shouldOpenNewTab\":false,\"path\":\"custom\",\"url\":\"$DISCLAIMER_EXIT_URL\",\"hoverBackgroundColor\":\"#666666\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"includeLoginJoinButtons\":false,\"enterExitButtonPosition\":\"under\",\"logoImageSrc\":\"https://static-landing-assets.project1content.com/P1TOUR/MPF/Gateway/296x82.png\",\"imgSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\",\"mobileImageSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\"}}],\"type\":\"layout\",\"themeConfig\":{},\"metaTagsConfig\":\"{}\",\"isUpdated\":true}",
+      "type": "layout",
+      "name": "Join_Layout",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086381,
+      "parentId": 8086321,
+      "status": "enabled",
+      "structure": "{\"id\":34290676097,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":71184195972,\"parentId\":34290676097,\"children\":[{\"id\":59396490437,\"parentId\":71184195972,\"children\":[{\"id\":4873539614,\"parentId\":59396490437,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[91231592580,75458101010],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"2.5em\",\"bottomMargin\":\"2.5em\"}},{\"id\":91231592580,\"parentId\":34290676097,\"children\":[{\"id\":46514314975,\"parentId\":91231592580,\"children\":[],\"attributes\":{\"_id\":\"Column\",\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":2}},\"nodeName\":\"Column\",\"siblings\":[43801879079,2702400540]},{\"id\":43801879079,\"parentId\":91231592580,\"children\":[{\"id\":46452849371,\"parentId\":43801879079,\"children\":[{\"id\":2712905713,\"parentId\":46452849371,\"children\":[{\"id\":28205980345,\"parentId\":2712905713,\"children\":[],\"siblings\":[],\"nodeName\":\"RteV3Block\",\"rteV3BlockId\":\"c42645c0-89d4-11f0-8e87-cf2b4b1f0d86\"}],\"attributes\":{\"_id\":\"Column\",\"span\":{\"small-up\":12,\"medium-up\":12,\"large-up\":12,\"extra-large-up\":12,\"huge-up\":12},\"hasAnchor\":false},\"nodeName\":\"Column\",\"siblings\":[]}],\"attributes\":{\"_id\":\"Row\"},\"nodeName\":\"Row\",\"siblings\":[27900951432,49040264482]},{\"id\":27900951432,\"parentId\":43801879079,\"children\":[{\"id\":63419903146,\"parentId\":27900951432,\"children\":[{\"id\":40146458657,\"parentId\":63419903146,\"children\":[],\"siblings\":[],\"nodeName\":\"RteV3Block\",\"rteV3BlockId\":\"62d4fbd0-89d5-11f0-b523-611ff604a1d3\"}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[46452849371,49040264482],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"1.875em\",\"bottomMargin\":\"0px\",\"aligned\":false}},{\"id\":49040264482,\"parentId\":43801879079,\"children\":[{\"id\":65132185015,\"parentId\":49040264482,\"children\":[{\"id\":46864160002,\"parentId\":65132185015,\"children\":[],\"attributes\":{\"_id\":\"ImageBlock\",\"title\":\"\",\"src\":{\"1x\":\"https://images-assets-ht.project1content.com/BangBros/BadLogin/649dcdcb2eb5f5.98577246.png\"},\"poster\":{\"1x\":\"\"},\"mobile\":{\"autoPlay\":false,\"src\":{\"1x\":\"https://images-assets-ht.project1content.com/BangBros/BadLogin/649dcdcb2eb5f5.98577246.png\"},\"poster\":{\"1x\":\"\"},\"shouldOpenNewTab\":false,\"path\":\"custom\",\"url\":\"$LOGIN_URL\"},\"autoLogin\":false,\"autoPlay\":false,\"generic\":{\"hasControls\":false},\"continuity\":{\"enableContinuity\":false},\"path\":\"custom\",\"url\":\"$LOGIN_URL\",\"_label\":\"TRY AGAIN\",\"shouldOpenNewTab\":false,\"popunder\":{}},\"nodeName\":\"ImageBlock\",\"siblings\":[]}],\"attributes\":{\"_id\":\"Column\",\"span\":{\"small-up\":12,\"medium-up\":5,\"large-up\":4,\"extra-large-up\":4,\"huge-up\":4}},\"nodeName\":\"Column\",\"siblings\":[72128753825]},{\"id\":72128753825,\"parentId\":49040264482,\"children\":[],\"attributes\":{\"_id\":\"Column\",\"span\":{\"small-up\":12,\"medium-up\":7,\"large-up\":8,\"extra-large-up\":8,\"huge-up\":8}},\"nodeName\":\"Column\",\"siblings\":[65132185015]}],\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"1.875em\",\"bottomMargin\":\"0px\",\"aligned\":false},\"nodeName\":\"Row\",\"siblings\":[46452849371,27900951432]}],\"attributes\":{\"_id\":\"Column\",\"span\":{\"small-up\":12,\"medium-up\":4,\"large-up\":4,\"extra-large-up\":4,\"huge-up\":3}},\"nodeName\":\"Column\",\"siblings\":[46514314975,2702400540]},{\"id\":2702400540,\"parentId\":91231592580,\"children\":[{\"id\":24853724331,\"parentId\":2702400540,\"children\":[],\"siblings\":[19710922765,68447074986,98059300615],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"60px\",\"bottomMargin\":\"0px\",\"aligned\":false}},{\"id\":19710922765,\"parentId\":2702400540,\"children\":[{\"id\":15691651683,\"parentId\":19710922765,\"children\":[{\"id\":41813924046,\"parentId\":15691651683,\"children\":[],\"siblings\":[],\"nodeName\":\"RteV3Block\",\"rteV3BlockId\":\"cb34f220-89c6-11f0-8e1c-7ffec2ca42ed\"}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[24853724331,68447074986,98059300615],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}},{\"id\":68447074986,\"parentId\":2702400540,\"children\":[{\"id\":68372440265,\"parentId\":68447074986,\"children\":[{\"id\":72298162967,\"parentId\":68372440265,\"children\":[],\"siblings\":[],\"nodeName\":\"JoinApp2Block\",\"joinApp2BlockId\":\"71c839a0-89a2-11f0-9899-535f45dee39a\"}],\"attributes\":{\"_id\":\"Column\"},\"nodeName\":\"Column\",\"siblings\":[]}],\"siblings\":[24853724331,19710922765,98059300615],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}},{\"id\":98059300615,\"parentId\":2702400540,\"children\":[{\"id\":52551324649,\"parentId\":98059300615,\"children\":[{\"id\":3040200206,\"parentId\":52551324649,\"children\":[],\"siblings\":[],\"nodeName\":\"FooterBlock\",\"attributes\":{\"_id\":\"FooterBlock\",\"title\":\"Footer\",\"textAlign\":\"center\",\"desktopFooterLinks\":[{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_PRIVACY_NOTICE_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PRIVACY_NOTICE_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_TERMS_CONDITIONS_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_TERMS_CONDITIONS_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_SUPPORT_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_SUPPORT_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$CANCELLATION_POLICY_LABEL\",\"path\":\"custom\",\"customPath\":\"$CANCELLATION_POLICY_URL\",\"isNoFollow\":true}],\"tagLine\":\"\",\"inquiryText\":\"\",\"legalText\":\"\",\"customVisualAttributes\":{\"linkColor\":\"#000000\",\"linkColorOnHover\":\"#000000\",\"businessLinkColor\":\"#000000\",\"businessLinkColorOnHover\":\"#000000\"},\"footerLogos\":{\"probillerEnable\":false,\"rtaEnable\":false,\"mgEnable\":false,\"probillerLink\":\"\",\"probillerText\":\"$PROBILLER_TEXT\"},\"hasRssFeed\":false,\"hasSameLinksForMobile\":true}}],\"attributes\":{\"_id\":\"Column\"},\"nodeName\":\"Column\",\"siblings\":[]}],\"siblings\":[24853724331,19710922765,68447074986],\"nodeName\":\"Row\",\"attributes\":{\"spaced\":false,\"verticalPadding\":\"20px\",\"_id\":\"Row\",\"aligned\":false,\"topMargin\":\"20px\",\"bottomMargin\":\"20px\"}}],\"attributes\":{\"_id\":\"Column\",\"span\":{\"small-up\":12,\"medium-up\":6,\"large-up\":6,\"extra-large-up\":6,\"huge-up\":6},\"hasAnchor\":false},\"nodeName\":\"Column\",\"siblings\":[46514314975,43801879079]}],\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"verticalPadding\":\"45px\",\"aligned\":false},\"nodeName\":\"Row\",\"siblings\":[71184195972,75458101010]},{\"id\":75458101010,\"parentId\":34290676097,\"children\":[{\"id\":25816984352,\"parentId\":75458101010,\"children\":[{\"id\":79896823303,\"parentId\":25816984352,\"children\":[{\"id\":62863630343,\"parentId\":79896823303,\"children\":[{\"id\":19808481775,\"parentId\":62863630343,\"children\":[{\"id\":45303641336,\"parentId\":19808481775,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[21670243948],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"2.5em\",\"bottomMargin\":\"2.5em\"}},{\"id\":21670243948,\"parentId\":79896823303,\"children\":[{\"id\":97266568541,\"parentId\":21670243948,\"children\":[{\"id\":54299131291,\"parentId\":97266568541,\"children\":[],\"siblings\":[],\"nodeName\":\"FooterBlock\",\"attributes\":{\"_id\":\"FooterBlock\",\"title\":\"Footer\",\"textAlign\":\"center\",\"desktopFooterLinks\":[{\"shouldOpenNewTab\":false,\"label\":\"$FOOTER_PORN_DIRECTORY_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PORN_DIRECTORY_URL\"},{\"shouldOpenNewTab\":true,\"label\":\"Login\",\"path\":\"custom\",\"customPath\":\"$LOGIN_URL\",\"isNoFollow\":true}],\"tagLine\":\"$MARKETING_TEXT\",\"inquiryText\":\"$INQUIRY_TEXT\",\"legalText\":\"$LEGAL_DISCLAIMER_TEXT\",\"customVisualAttributes\":{\"linkColor\":\"#ffffff\",\"linkColorOnHover\":\"#ffffff\",\"businessLinkColor\":\"#ffffff\",\"businessLinkColorOnHover\":\"#ffffff\"},\"footerLogos\":{\"probillerEnable\":true,\"probillerLink\":\"\",\"probillerText\":\"$PROBILLER_TEXT\",\"rtaEnable\":true,\"mgEnable\":true},\"hasRssFeed\":false,\"hasSameLinksForMobile\":true}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[62863630343],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"BackgroundWrapperBlock\",\"styles\":{\"enableMediabookAsset\":false,\"backgrounds\":[{\"backgroundType\":\"gradient\",\"backgroundSize\":\"cover\",\"background\":\"linear-gradient(180deg, #000000 0%, #000000 100%);\"}],\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"minHeight\":\"1em\",\"matchParentHeight\":false,\"paddingMultiplier\":0,\"backgroundColor\":\"#000000\",\"verticalAlign\":\"flex-start\",\"horizontalAlignment\":\"center\"},\"continuity\":{\"enableContinuity\":false}}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[71184195972,91231592580],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"type\":\"page\",\"themeConfig\":{},\"pageSkinConfig\":{\"useCustomSkin\":false,\"bgImages\":{},\"bgCover\":{\"cover\":false},\"bgPosition\":{\"sidePos\":false,\"vPos\":\"top\",\"hPos\":\"left\"},\"bgOptions\":{}},\"pageColorConfig\":{\"useCustomColors\":true,\"primary\":\"#F90000\",\"dropdownSubMenuBackground\":\"#363433\",\"background\":\"#EBEBEB\",\"text\":\"#999999\",\"card\":\"#eaf2fb\",\"menuBg\":\"#fedcba\",\"dropdownTextColor\":\"#000000\",\"blockHeaderBar\":\"#d6d6d6\",\"blockBgColor\":\"#ffffff\",\"cardTitleLinkColor\":\"#ce1f29\"},\"pageGutterConfig\":{\"usePageGutter\":false},\"metaTagsConfig\":\"{\\\"robots\\\":\\\"\\\",\\\"canonical\\\":{},\\\"metaTags\\\":{\\\"general\\\":{}}}\",\"isUpdated\":true}",
+      "type": "page",
+      "name": "Badlogin",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [
+        {
+          "id": 718991,
+          "uuid": "71c839a0-89a2-11f0-9899-535f45dee39a",
+          "structureId": 8086381,
+          "storefrontId": null,
+          "productPageId": null,
+          "blockId": 36041,
+          "bundleId": null,
+          "pricePackageId": null,
+          "bundleTags": null,
+          "misc": "{\"_id\":\"JoinApp2Block\"}"
+        }
+      ],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [
+        {
+          "id": 417181,
+          "uuid": "cb34f220-89c6-11f0-8e1c-7ffec2ca42ed",
+          "structureId": 8086381,
+          "configId": 16571,
+          "misc": "{\"_id\":\"RteV3Block\"}"
+        },
+        {
+          "id": 417191,
+          "uuid": "c42645c0-89d4-11f0-8e87-cf2b4b1f0d86",
+          "structureId": 8086381,
+          "configId": 16581,
+          "misc": "{\"_id\":\"RteV3Block\"}"
+        },
+        {
+          "id": 417201,
+          "uuid": "62d4fbd0-89d5-11f0-b523-611ff604a1d3",
+          "structureId": 8086381,
+          "configId": 16601,
+          "misc": "{\"_id\":\"RteV3Block\"}"
+        }
+      ],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086391,
+      "parentId": 8086801,
+      "status": "enabled",
+      "structure": "{\"id\":1,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":60112056585,\"parentId\":1,\"children\":[{\"id\":40289618717,\"parentId\":60112056585,\"children\":[],\"siblings\":[93565703242,31507653379],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}},{\"id\":93565703242,\"parentId\":60112056585,\"children\":[{\"id\":21532961714,\"parentId\":93565703242,\"children\":[],\"siblings\":[],\"nodeName\":\"AssetManagerTgpBlock\",\"attributes\":{\"_id\":\"AssetManagerTgpBlock\",\"tgpId\":\"10491\"}}],\"siblings\":[40289618717,31507653379],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":10,\"large-up\":10,\"extra-large-up\":10,\"huge-up\":10}}},{\"id\":31507653379,\"parentId\":60112056585,\"children\":[],\"siblings\":[40289618717,93565703242],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}}],\"siblings\":[],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"type\":\"page\",\"themeConfig\":{},\"metaTagsConfig\":\"{\\\"robots\\\":\\\"\\\",\\\"canonical\\\":{},\\\"metaTags\\\":{\\\"general\\\":{\\\"metaTitle\\\":\\\"MyPervyFamily | Exclusive Family Roleplay Videos\\\",\\\"metaDescription\\\":\\\"Watch exclusive family roleplay, taboo step fantasies & POV scenes in full HD. New premium videos every week.\\\"}}}\",\"pageSkinConfig\":{\"useCustomSkin\":false},\"pageColorConfig\":{\"useCustomColors\":false,\"primary\":\"#2857f7\",\"background\":\"#ffffff\",\"text\":\"#000000\",\"card\":\"#2857f7\",\"menuBg\":\"#dadada\"},\"pageGutterConfig\":{\"usePageGutter\":false},\"isUpdated\":true}",
+      "type": "page",
+      "name": "Home",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086451,
+      "parentId": 8086331,
+      "status": "enabled",
+      "structure": "{\"id\":1,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":19377839002,\"parentId\":1,\"children\":[{\"id\":38937432490,\"parentId\":19377839002,\"children\":[{\"id\":35257077611,\"parentId\":38937432490,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[97662980541],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"2.5em\",\"bottomMargin\":\"2.5em\"}},{\"id\":97662980541,\"parentId\":1,\"children\":[{\"id\":65944919850,\"parentId\":97662980541,\"children\":[],\"siblings\":[64937483748,96101522116],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}},{\"id\":64937483748,\"parentId\":97662980541,\"children\":[{\"id\":22857787139,\"parentId\":64937483748,\"children\":[{\"id\":32715247771,\"parentId\":22857787139,\"children\":[{\"id\":76550330276,\"parentId\":32715247771,\"children\":[],\"siblings\":[],\"nodeName\":\"RteV3Block\",\"rteV3BlockId\":\"11d895d0-8e75-11f0-9cac-938bc3d77068\"}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[53322902990],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"7.1875em\",\"bottomMargin\":\"0px\",\"aligned\":false}},{\"id\":53322902990,\"parentId\":64937483748,\"children\":[{\"id\":6245540496,\"parentId\":53322902990,\"children\":[{\"id\":8056459858,\"parentId\":6245540496,\"children\":[],\"siblings\":[],\"nodeName\":\"ButtonBlock\",\"attributes\":{\"_id\":\"ButtonBlock\",\"label\":\"BACK TO HOME PAGE\",\"autoLogin\":false,\"styles\":{\"button\":{\"labelPosition\":\"center-center\",\"fontType\":\"font-primary\",\"buttonSize\":\"content\",\"buttonAlignment\":\"center\",\"backgroundColor\":\"#F90000\",\"hoverBackgroundColor\":\"#F90000\",\"color\":\"#ffffff\",\"hoverColor\":\"#ffffff\",\"fontSizePc\":\"20px\",\"fontSizeMo\":\"16px\",\"fontWeightBold\":false,\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"hoverBorderColor\":\"\",\"padding\":\"18px 60px 18px 60px\",\"spacingMultiplier\":1,\"hasBackgroundGradient\":false,\"hasDropShadow\":false,\"transitionTime\":\".3s\",\"hasGradient\":false,\"hasGradientOnHover\":false}},\"shouldOpenNewTab\":false,\"path\":\"HOME\",\"_label\":\"BACK TO HOME PAGE\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[22857787139],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"siblings\":[65944919850,96101522116],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":10,\"large-up\":10,\"extra-large-up\":10,\"huge-up\":10}}},{\"id\":96101522116,\"parentId\":97662980541,\"children\":[],\"siblings\":[65944919850,64937483748],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}}],\"siblings\":[19377839002],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"3em\",\"bottomMargin\":\"3em\",\"aligned\":false}}],\"type\":\"page\",\"themeConfig\":{},\"pageSkinConfig\":{\"useCustomSkin\":false},\"pageColorConfig\":{\"useCustomColors\":false,\"primary\":\"#2857f7\",\"background\":\"#ffffff\",\"text\":\"#000000\",\"card\":\"#2857f7\",\"menuBg\":\"#dadada\"},\"pageGutterConfig\":{\"usePageGutter\":false},\"metaTagsConfig\":\"{\\\"robots\\\":\\\"noindex, follow\\\",\\\"canonical\\\":{},\\\"metaTags\\\":{\\\"general\\\":{\\\"metaTitle\\\":\\\"Page Not Found\\\"}}}\",\"isUpdated\":true}",
+      "type": "page",
+      "name": "404",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [
+        {
+          "id": 415171,
+          "uuid": "11d895d0-8e75-11f0-9cac-938bc3d77068",
+          "structureId": 8086451,
+          "configId": 16961,
+          "misc": "{\"_id\":\"RteV3Block\"}"
+        }
+      ],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086481,
+      "parentId": 8086331,
+      "status": "enabled",
+      "structure": "{\"id\":1,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":8388760970,\"parentId\":1,\"children\":[{\"id\":10896316976,\"parentId\":8388760970,\"children\":[],\"siblings\":[90396880077,59512381481],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}},{\"id\":90396880077,\"parentId\":8388760970,\"children\":[{\"id\":82877447361,\"parentId\":90396880077,\"children\":[],\"siblings\":[],\"nodeName\":\"SitemapBlock\",\"attributes\":{\"_id\":\"SitemapBlock\",\"title\":\"Sitemap\",\"headerTag\":1}}],\"siblings\":[10896316976,59512381481],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":10,\"large-up\":10,\"extra-large-up\":10,\"huge-up\":10}}},{\"id\":59512381481,\"parentId\":8388760970,\"children\":[],\"siblings\":[10896316976,90396880077],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}}],\"siblings\":[],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"3em\",\"bottomMargin\":\"3em\",\"aligned\":false}}],\"type\":\"page\",\"themeConfig\":{},\"metaTagsConfig\":\"{}\",\"isUpdated\":true}",
+      "type": "page",
+      "name": "Sitemap",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086491,
+      "parentId": 8086331,
+      "status": "enabled",
+      "structure": "{\"id\":12272584769,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":3197376792,\"parentId\":12272584769,\"children\":[{\"id\":21051851674,\"parentId\":3197376792,\"children\":[{\"id\":17395258754,\"parentId\":21051851674,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[48463549957],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"2.5em\",\"bottomMargin\":\"2.5em\"}},{\"id\":48463549957,\"parentId\":12272584769,\"children\":[{\"id\":31835892145,\"parentId\":48463549957,\"children\":[],\"siblings\":[85884117647,41665981712],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}},{\"id\":85884117647,\"parentId\":48463549957,\"children\":[{\"id\":8250496219,\"parentId\":85884117647,\"children\":[],\"siblings\":[],\"nodeName\":\"ContentRemovalFormBlock\",\"attributes\":{\"_id\":\"ContentRemovalFormBlock\",\"title\":\"Content Removal Form\",\"colors\":{\"background\":\"rgba(0, 0, 0, 0)\",\"checkbox\":\"#151515\",\"checkmarkInsideCheckbox\":\"#F90000\",\"formText\":\"#ffffff\",\"formLinks\":\"#F90000\",\"formLinksHover\":\"#F90000\",\"inputFieldTextColor\":\"#ffffff\",\"inputFieldPlaceholderColor\":\"#757575\",\"submitButtonBackground\":\"#F90000\",\"submitButtonBackgroundHover\":\"#F90000\",\"submitButtonText\":\"#ffffff\",\"submitButtonTextHover\":\"#ffffff\",\"textField\":\"#151515\"},\"hideUserGeneratedContentText\":true,\"hideCopyrightInfringementOption\":true,\"hideCSAMText\":true,\"enableAnonCSAMCRRLink\":false,\"supportEmail\":\"$CRR_SUPPORT\",\"copyrightEmail\":\"$CRR_SUPPORT\",\"contactEmailFlaggers\":\"$CRR_SUPPORT\"}}],\"siblings\":[31835892145,41665981712],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":10,\"large-up\":10,\"extra-large-up\":10,\"huge-up\":10}}},{\"id\":41665981712,\"parentId\":48463549957,\"children\":[],\"siblings\":[31835892145,85884117647],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":1,\"huge-up\":1}}}],\"siblings\":[3197376792],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"3em\",\"bottomMargin\":\"3em\",\"aligned\":false}}],\"type\":\"page\",\"themeConfig\":{},\"metaTagsConfig\":\"{}\",\"isUpdated\":true}",
+      "type": "page",
+      "name": "Content-removal",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086531,
+      "parentId": 8086331,
+      "status": "enabled",
+      "structure": "{\"id\":1,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":56900117118,\"parentId\":1,\"children\":[{\"id\":53552224363,\"parentId\":56900117118,\"children\":[{\"id\":18949310731,\"parentId\":53552224363,\"children\":[{\"id\":83778514952,\"parentId\":18949310731,\"children\":[{\"id\":835410411,\"parentId\":83778514952,\"children\":[{\"id\":3920799263,\"parentId\":835410411,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[18645652227,64778548874],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"5em\",\"bottomMargin\":\"2em\"}},{\"id\":18645652227,\"parentId\":18949310731,\"children\":[{\"id\":20533943115,\"parentId\":18645652227,\"children\":[{\"id\":29209645630,\"parentId\":20533943115,\"children\":[],\"siblings\":[],\"nodeName\":\"RteV3Block\",\"rteV3BlockId\":\"dd2fed80-899a-11f0-88aa-1fc958666310\"}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[83778514952,64778548874],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}},{\"id\":64778548874,\"parentId\":18949310731,\"children\":[{\"id\":99524001699,\"parentId\":64778548874,\"children\":[],\"siblings\":[83627802741,10927131174],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":3,\"large-up\":3,\"extra-large-up\":3,\"huge-up\":4}}},{\"id\":83627802741,\"parentId\":64778548874,\"children\":[{\"id\":5282656004,\"parentId\":83627802741,\"children\":[{\"id\":12617636209,\"parentId\":5282656004,\"children\":[],\"siblings\":[30339549407,31090651551],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":12,\"large-up\":2,\"extra-large-up\":2,\"huge-up\":2}}},{\"id\":30339549407,\"parentId\":5282656004,\"children\":[{\"id\":47604831196,\"parentId\":30339549407,\"children\":[],\"siblings\":[],\"nodeName\":\"Form\",\"attributes\":{\"_id\":\"JoinInputsFormBlock\",\"options\":{\"fieldTypes\":[{\"label\":\"Email\",\"type\":\"email\"}],\"validateUniqueEmail\":false,\"disclaimerEnabled\":false,\"hasTitleText\":false,\"buttonText\":\"NEXT STEP\",\"redirectPath\":\"$JOIN_URL\",\"recaptchaTheme\":\"light\"},\"styles\":{\"form\":{\"fontType\":\"font-primary\",\"fontSize\":\"16px\",\"backgroundColor\":\"\",\"fontColor\":\"\",\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"padding\":\"0.25em 1.5em 0.25em 1.5em\"},\"title\":{\"fontType\":\"font-primary\",\"fontSize\":\"1.25em\",\"alignment\":\"left\",\"color\":\"#ffffff\"},\"label\":{\"backgroundColor\":\"\",\"color\":\"#ffffff\"},\"input\":{\"backgroundColor\":\"#FFFFFF\",\"color\":\"#5C5C5D\",\"height\":\"39px\",\"borderSize\":\"0\",\"borderRoundness\":\"0\"},\"button\":{\"fontType\":\"font-primary\",\"buttonSize\":\"content\",\"buttonAlignment\":\"center\",\"backgroundColor\":\"#F90000\",\"color\":\"#ffffff\",\"hoverBackgroundColor\":\"#F90000\",\"hoverColor\":\"#ffffff\",\"hoverBorderColor\":\"\",\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"padding\":\"19px 5em 19px 5em\",\"margin\":\"10px 0 10px 0\",\"transitionTime\":\"0.3s\"}}}}],\"siblings\":[12617636209,31090651551],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":12,\"large-up\":8,\"extra-large-up\":8,\"huge-up\":8}}},{\"id\":31090651551,\"parentId\":5282656004,\"children\":[],\"siblings\":[12617636209,30339549407],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":12,\"large-up\":2,\"extra-large-up\":2,\"huge-up\":2}}}],\"siblings\":[],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":false,\"aligned\":true,\"leftPadding\":\"1.875em\",\"rightPadding\":\"1.875em\"}}],\"siblings\":[99524001699,10927131174],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":6,\"large-up\":6,\"extra-large-up\":6,\"huge-up\":4}}},{\"id\":10927131174,\"parentId\":64778548874,\"children\":[],\"siblings\":[99524001699,83627802741],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":3,\"large-up\":3,\"extra-large-up\":3,\"huge-up\":4}}}],\"siblings\":[83778514952,18645652227],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"AssetManagerBackgroundWrapperBlock\",\"styles\":{\"backgrounds\":[{\"backgroundType\":\"amtSource\",\"backgroundSize\":\"contain\",\"source\":\"4061\",\"position\":\"center-top\"}],\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"minHeight\":\"56.49vw\",\"matchParentHeight\":true,\"paddingMultiplier\":0,\"verticalAlign\":\"flex-start\",\"horizontalAlignment\":\"center\"}}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"type\":\"page\",\"themeConfig\":{},\"pageSkinConfig\":{\"useCustomSkin\":false},\"pageColorConfig\":{\"useCustomColors\":true,\"primary\":\"#F90000\",\"dropdownSubMenuBackground\":\"#363433\",\"background\":\"#000000\",\"text\":\"#ffffff\",\"card\":\"#2857f7\",\"menuBg\":\"#dadada\",\"dropdownTextColor\":\"#000000\",\"blockHeaderBar\":\"#d6d6d6\",\"blockBgColor\":\"#ffffff\",\"cardTitleLinkColor\":\"#ce1f29\"},\"pageGutterConfig\":{\"usePageGutter\":false},\"metaTagsConfig\":\"{\\\"robots\\\":\\\"\\\",\\\"canonical\\\":{},\\\"metaTags\\\":{\\\"general\\\":{}}}\",\"isUpdated\":true}",
+      "type": "page",
+      "name": "Joinf",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [
+        {
+          "id": 410031,
+          "uuid": "dd2fed80-899a-11f0-88aa-1fc958666310",
+          "structureId": 8086531,
+          "configId": 16471,
+          "misc": "{\"_id\":\"RteV3Block\"}"
+        }
+      ],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086541,
+      "parentId": 8086351,
+      "status": "enabled",
+      "structure": "{\"id\":84911066509,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":2107759777,\"parentId\":84911066509,\"children\":[{\"id\":81308460800,\"parentId\":2107759777,\"children\":[{\"id\":13818060891,\"parentId\":81308460800,\"children\":[{\"id\":24756369558,\"parentId\":13818060891,\"children\":[{\"id\":7358982799,\"parentId\":24756369558,\"children\":[{\"id\":81629445031,\"parentId\":7358982799,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[92885127672,96297607328],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"5em\",\"bottomMargin\":\"2em\"}},{\"id\":92885127672,\"parentId\":13818060891,\"children\":[{\"id\":14791058043,\"parentId\":92885127672,\"children\":[{\"id\":1299960945,\"parentId\":14791058043,\"children\":[],\"siblings\":[],\"nodeName\":\"JoinApp2Block\",\"joinApp2BlockId\":\"42a0b880-899f-11f0-b262-2f49abe2f60f\"}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[24756369558,96297607328],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}},{\"id\":96297607328,\"parentId\":13818060891,\"children\":[],\"siblings\":[24756369558,92885127672],\"nodeName\":\"FooterBlock\",\"attributes\":{\"_id\":\"FooterBlock\",\"title\":\"Footer\",\"textAlign\":\"center\",\"desktopFooterLinks\":[{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_PRIVACY_NOTICE_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PRIVACY_NOTICE_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_TERMS_CONDITIONS_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_TERMS_CONDITIONS_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_SUPPORT_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_SUPPORT_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$CANCELLATION_POLICY_LABEL\",\"path\":\"custom\",\"customPath\":\"$CANCELLATION_POLICY_URL\",\"isNoFollow\":true}],\"tagLine\":\"\",\"inquiryText\":\"\",\"legalText\":\"\",\"customVisualAttributes\":{\"linkColor\":\"#ffffff\",\"linkColorOnHover\":\"#ffffff\",\"businessLinkColor\":\"#ffffff\",\"businessLinkColorOnHover\":\"#ffffff\"},\"footerLogos\":{\"probillerEnable\":false,\"rtaEnable\":false,\"mgEnable\":false,\"probillerLink\":\"\",\"probillerText\":\"$PROBILLER_TEXT\"},\"hasRssFeed\":false,\"hasSameLinksForMobile\":true}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"AssetManagerBackgroundWrapperBlock\",\"styles\":{\"backgrounds\":[{\"backgroundType\":\"amtSource\",\"backgroundSize\":\"contain\",\"source\":\"4061\",\"position\":\"center-top\"}],\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"minHeight\":\"56.49vw\",\"matchParentHeight\":true,\"paddingMultiplier\":0,\"verticalAlign\":\"flex-start\",\"horizontalAlignment\":\"center\"}}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"type\":\"page\",\"themeConfig\":{},\"pageSkinConfig\":{\"useCustomSkin\":false},\"pageColorConfig\":{\"useCustomColors\":true,\"primary\":\"#F90000\",\"dropdownSubMenuBackground\":\"#363433\",\"background\":\"#000000\",\"text\":\"#ffffff\",\"card\":\"#2857f7\",\"menuBg\":\"#dadada\",\"dropdownTextColor\":\"#000000\",\"blockHeaderBar\":\"#d6d6d6\",\"blockBgColor\":\"#ffffff\",\"cardTitleLinkColor\":\"#ce1f29\"},\"pageGutterConfig\":{\"usePageGutter\":false},\"metaTagsConfig\":\"{\\\"robots\\\":\\\"\\\",\\\"canonical\\\":{},\\\"metaTags\\\":{\\\"general\\\":{}}}\",\"isUpdated\":true}",
+      "type": "page",
+      "name": "Join",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [
+        {
+          "id": 716381,
+          "uuid": "42a0b880-899f-11f0-b262-2f49abe2f60f",
+          "structureId": 8086541,
+          "storefrontId": null,
+          "productPageId": null,
+          "blockId": 36041,
+          "bundleId": null,
+          "pricePackageId": null,
+          "bundleTags": null,
+          "misc": "{\"_id\":\"JoinApp2Block\"}"
+        }
+      ],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8086801,
+      "parentId": null,
+      "status": "enabled",
+      "structure": "{\"id\":18913085273,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":11722323293,\"parentId\":18913085273,\"children\":[],\"attributes\":{\"_id\":\"Children\"},\"nodeName\":\"Children\",\"siblings\":[58606943133,5698642613]},{\"id\":58606943133,\"parentId\":18913085273,\"children\":[{\"id\":97839539612,\"parentId\":58606943133,\"children\":[{\"id\":47887838953,\"parentId\":97839539612,\"children\":[{\"id\":99236244977,\"parentId\":47887838953,\"children\":[{\"id\":5616918030,\"parentId\":99236244977,\"children\":[{\"id\":79180899023,\"parentId\":5616918030,\"children\":[],\"siblings\":[],\"nodeName\":\"FooterBlock\",\"attributes\":{\"_id\":\"FooterBlock\",\"title\":\"Footer\",\"textAlign\":\"center\",\"desktopFooterLinks\":[{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_PRIVACY_NOTICE_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PRIVACY_NOTICE_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_TERMS_CONDITIONS_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_TERMS_CONDITIONS_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_SUPPORT_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_SUPPORT_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":false,\"label\":\"$FOOTER_PORN_DIRECTORY_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PORN_DIRECTORY_URL\"},{\"shouldOpenNewTab\":true,\"path\":\"custom\",\"customPath\":\"$LOGIN_URL\",\"isNoFollow\":true,\"label\":\"Login\"}],\"tagLine\":\"$MARKETING_TEXT\",\"inquiryText\":\"$INQUIRY_TEXT\",\"legalText\":\"$LEGAL_DISCLAIMER_TEXT\",\"customVisualAttributes\":{\"linkColor\":\"#ffffff\",\"linkColorOnHover\":\"#ffffff\",\"businessLinkColor\":\"#ffffff\",\"businessLinkColorOnHover\":\"#ffffff\"},\"footerLogos\":{\"probillerEnable\":true,\"probillerLink\":\"\",\"probillerText\":\"$PROBILLER_TEXT\",\"rtaEnable\":true,\"mgEnable\":true},\"hasRssFeed\":false,\"hasSameLinksForMobile\":true}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"BackgroundWrapperBlock\",\"styles\":{\"enableMediabookAsset\":false,\"backgrounds\":[{\"backgroundType\":\"gradient\",\"backgroundSize\":\"cover\",\"background\":\"linear-gradient(180deg, #000000 0%, #000000 100%);\"}],\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"minHeight\":\"1em\",\"matchParentHeight\":false,\"paddingMultiplier\":0,\"backgroundColor\":\"#000000\",\"verticalAlign\":\"flex-start\",\"horizontalAlignment\":\"center\"},\"continuity\":{\"enableContinuity\":false}}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[11722323293,5698642613],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}},{\"id\":5698642613,\"parentId\":18913085273,\"children\":[],\"siblings\":[11722323293,58606943133],\"nodeName\":\"PopupGroupBlock\",\"attributes\":{\"_id\":\"DisclaimerBlock\",\"legalTxt1\":\"$DISCLAIMER_PARAGRAPH_1\",\"legalTxt2\":\"$DISCLAIMER_PARAGRAPH_2\",\"legalTxtColor\":\"#000000\",\"legalTxtBgColor\":\"#FFFFFF\",\"legalTxtBgOpacity\":100,\"displayLogo\":true,\"logoPosition\":\"center\",\"overlayColor\":\"#ffffff\",\"overlayOpacity\":100,\"enterButtonStyles\":{\"label\":\"ENTER\",\"backgroundColor\":\"#A4FF2F\",\"color\":\"#000000\",\"hoverColor\":\"#000000\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#A4FF2F\",\"hoverBorderColor\":\"#A4FF2F\",\"padding\":\"15px 15px 15px 15px\",\"hoverBackgroundColor\":\"#A4FF2F\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"exitButtonStyles\":{\"label\":\"EXIT\",\"backgroundColor\":\"#666666\",\"color\":\"#ffffff\",\"hoverColor\":\"#ffffff\",\"fontWeightBold\":true,\"borderSize\":\"1px\",\"borderRoundness\":\"0\",\"borderColor\":\"#666666\",\"hoverBorderColor\":\"#666666\",\"padding\":\"15px 15px 15px 15px\",\"shouldOpenNewTab\":false,\"path\":\"custom\",\"url\":\"$DISCLAIMER_EXIT_URL\",\"hoverBackgroundColor\":\"#666666\",\"fontSizePc\":\"18px\",\"fontSizeMo\":\"13px\"},\"includeLoginJoinButtons\":false,\"enterExitButtonPosition\":\"under\",\"logoImageSrc\":\"https://static-landing-assets.project1content.com/P1TOUR/MPF/Gateway/296x82.png\",\"imgSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\",\"mobileImageSrc\":\"https://images-assets-ht.project1content.com/Common_Images/TransparentPNGs/5b522d5c298e31.56182027.png\"}}],\"type\":\"layout\",\"themeConfig\":{},\"metaTagsConfig\":\"{}\",\"isUpdated\":true}",
+      "type": "layout",
+      "name": "Home_Layout",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    },
+    {
+      "id": 8104651,
+      "parentId": 8086321,
+      "status": "enabled",
+      "structure": "{\"id\":11169579181,\"parentId\":null,\"nodeName\":\"Container\",\"attributes\":{\"_id\":\"Container\"},\"siblings\":[],\"children\":[{\"id\":46119839435,\"parentId\":11169579181,\"children\":[{\"id\":79691596634,\"parentId\":46119839435,\"children\":[{\"id\":59722341734,\"parentId\":79691596634,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[19331877195,10938153875],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"5.625em\",\"bottomMargin\":\"3.125em\"}},{\"id\":19331877195,\"parentId\":11169579181,\"children\":[{\"id\":317199962,\"parentId\":19331877195,\"children\":[],\"siblings\":[86780475807,61471318974,6420921906],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":3,\"huge-up\":3}}},{\"id\":86780475807,\"parentId\":19331877195,\"children\":[{\"id\":98343064131,\"parentId\":86780475807,\"children\":[{\"id\":8662917641,\"parentId\":98343064131,\"children\":[{\"id\":38674039344,\"parentId\":8662917641,\"children\":[{\"id\":81706865319,\"parentId\":38674039344,\"children\":[],\"siblings\":[],\"nodeName\":\"Rte2Block\",\"attributes\":{\"_id\":\"Rte2Block\",\"rteContent\":\"[{\\\"type\\\":\\\"span\\\",\\\"children\\\":[{\\\"text\\\":\\\"LEGACY MEMBERS\\\",\\\"size\\\":\\\"25\\\",\\\"strong\\\":true},{\\\"text\\\":\\\"\\\\n\\\",\\\"size\\\":\\\"25\\\"},{\\\"text\\\":\\\"(Joined before October 1st, 2025)\\\",\\\"size\\\":\\\"16\\\"}],\\\"align\\\":\\\"center\\\"}]\",\"hasBackgroundColor\":false,\"hasTextColor\":false,\"hasPaddingOverride\":false,\"hasDropshadow\":false,\"contentSeparatorColor\":\"#FFFFFF\",\"hasListItemSplit\":true,\"expandCollapse\":{\"enabled\":false},\"_label\":\"LEGACY MEMBERS (Joined before October 1st, 2025)\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[70745194293],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"2.5em\",\"bottomMargin\":\"0px\",\"aligned\":false}},{\"id\":70745194293,\"parentId\":98343064131,\"children\":[{\"id\":46764386610,\"parentId\":70745194293,\"children\":[{\"id\":6936047386,\"parentId\":46764386610,\"children\":[],\"siblings\":[],\"nodeName\":\"ButtonBlock\",\"attributes\":{\"_id\":\"ButtonBlock\",\"label\":\"Login\",\"autoLogin\":false,\"styles\":{\"button\":{\"labelPosition\":\"center-center\",\"fontType\":\"font-primary\",\"buttonSize\":\"content\",\"buttonAlignment\":\"center\",\"backgroundColor\":\"#000000\",\"hoverBackgroundColor\":\"#ffffff\",\"color\":\"#ffffff\",\"hoverColor\":\"#000000\",\"fontSizePc\":\"25px\",\"fontSizeMo\":\"20px\",\"fontWeightBold\":false,\"borderSize\":\"1px\",\"borderRoundness\":\"5px\",\"hoverBorderColor\":\"#000000\",\"padding\":\"15px 5em 15px 5em\",\"spacingMultiplier\":1,\"hasBackgroundGradient\":false,\"hasDropShadow\":false,\"transitionTime\":\".3s\",\"hasGradient\":false,\"hasGradientOnHover\":false}},\"shouldOpenNewTab\":false,\"path\":\"custom\",\"url\":\"$LEGACY_LOGIN_URL\",\"_label\":\"Login\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[8662917641],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"0px\",\"bottomMargin\":\"2.5em\",\"aligned\":false}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"BackgroundWrapperBlock\",\"styles\":{\"enableMediabookAsset\":false,\"backgrounds\":[],\"borderSize\":\"2px\",\"borderRoundness\":\"0\",\"minHeight\":\"218px\",\"matchParentHeight\":false,\"paddingMultiplier\":0,\"verticalAlign\":\"center\",\"horizontalAlignment\":\"center\",\"borderColor\":\"rgba(0,0,0,0.16)\",\"backgroundColor\":\"#ffffff\"},\"continuity\":{\"enableContinuity\":false}}}],\"siblings\":[317199962,61471318974,6420921906],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":5,\"large-up\":5,\"extra-large-up\":3,\"huge-up\":3}}},{\"id\":61471318974,\"parentId\":19331877195,\"children\":[{\"id\":7270295825,\"parentId\":61471318974,\"children\":[{\"id\":37518274029,\"parentId\":7270295825,\"children\":[{\"id\":78589781917,\"parentId\":37518274029,\"children\":[{\"id\":77752058869,\"parentId\":78589781917,\"children\":[],\"siblings\":[],\"nodeName\":\"Rte2Block\",\"attributes\":{\"_id\":\"Rte2Block\",\"rteContent\":\"[{\\\"type\\\":\\\"span\\\",\\\"children\\\":[{\\\"text\\\":\\\"★NEW MEMBERS\\\",\\\"size\\\":\\\"25\\\",\\\"strong\\\":true},{\\\"text\\\":\\\"\\\\n\\\",\\\"size\\\":\\\"25\\\"},{\\\"text\\\":\\\"(Joined After October 1st, 2025)\\\",\\\"size\\\":\\\"16\\\"}],\\\"align\\\":\\\"center\\\"}]\",\"hasBackgroundColor\":false,\"hasTextColor\":false,\"hasPaddingOverride\":false,\"hasDropshadow\":false,\"contentSeparatorColor\":\"#FFFFFF\",\"hasListItemSplit\":true,\"expandCollapse\":{\"enabled\":false},\"_label\":\"NEW MEMBERS (Joined After October 1st, 2025)\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[76283702880],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"2.5em\",\"bottomMargin\":\"0px\",\"aligned\":false}},{\"id\":76283702880,\"parentId\":7270295825,\"children\":[{\"id\":19590773731,\"parentId\":76283702880,\"children\":[{\"id\":83461560531,\"parentId\":19590773731,\"children\":[],\"siblings\":[],\"nodeName\":\"ButtonBlock\",\"attributes\":{\"_id\":\"ButtonBlock\",\"label\":\"Login\",\"autoLogin\":false,\"styles\":{\"button\":{\"labelPosition\":\"center-center\",\"fontType\":\"font-primary\",\"buttonSize\":\"content\",\"buttonAlignment\":\"center\",\"backgroundColor\":\"#F90000\",\"hoverBackgroundColor\":\"#ffffff\",\"color\":\"#ffffff\",\"hoverColor\":\"#F90000\",\"fontSizePc\":\"25px\",\"fontSizeMo\":\"20px\",\"fontWeightBold\":false,\"borderSize\":\"1px\",\"borderRoundness\":\"5px\",\"hoverBorderColor\":\"#F90000\",\"padding\":\"15px 5em 15px 5em\",\"spacingMultiplier\":1,\"hasBackgroundGradient\":false,\"hasDropShadow\":false,\"transitionTime\":\".3s\",\"hasGradient\":false,\"hasGradientOnHover\":false}},\"shouldOpenNewTab\":false,\"path\":\"custom\",\"url\":\"$LOGIN_URL\",\"_label\":\"Login\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[37518274029],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"0px\",\"bottomMargin\":\"2.5em\",\"aligned\":false}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"BackgroundWrapperBlock\",\"styles\":{\"enableMediabookAsset\":false,\"backgrounds\":[],\"borderSize\":\"2px\",\"borderRoundness\":\"0\",\"minHeight\":\"218px\",\"matchParentHeight\":false,\"paddingMultiplier\":0,\"verticalAlign\":\"center\",\"horizontalAlignment\":\"center\",\"borderColor\":\"rgba(0,0,0,0.16)\",\"backgroundColor\":\"#ffffff\"},\"continuity\":{\"enableContinuity\":false}}}],\"siblings\":[317199962,86780475807,6420921906],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":5,\"large-up\":5,\"extra-large-up\":3,\"huge-up\":3}}},{\"id\":6420921906,\"parentId\":19331877195,\"children\":[],\"siblings\":[317199962,86780475807,61471318974],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\",\"hasAnchor\":false,\"span\":{\"small-up\":12,\"medium-up\":1,\"large-up\":1,\"extra-large-up\":3,\"huge-up\":3}}}],\"siblings\":[46119839435,10938153875],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"topMargin\":\"0px\",\"bottomMargin\":\"11.25em\",\"aligned\":false}},{\"id\":10938153875,\"parentId\":11169579181,\"children\":[{\"id\":91966651712,\"parentId\":10938153875,\"children\":[{\"id\":51676517127,\"parentId\":91966651712,\"children\":[{\"id\":50521062987,\"parentId\":51676517127,\"children\":[{\"id\":97389709778,\"parentId\":50521062987,\"children\":[{\"id\":97875386595,\"parentId\":97389709778,\"children\":[],\"siblings\":[],\"nodeName\":\"MediaBlocksGroup\",\"attributes\":{\"_id\":\"AssetManagerMediaBlock\",\"mediaId\":\"21271\",\"_label\":\"21271\"}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[45355122898],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\",\"spaced\":true,\"aligned\":false,\"leftPadding\":\"35em\",\"rightPadding\":\"35em\",\"topMargin\":\"2.5em\",\"bottomMargin\":\"2.5em\"}},{\"id\":45355122898,\"parentId\":51676517127,\"children\":[{\"id\":88248150772,\"parentId\":45355122898,\"children\":[{\"id\":84430440504,\"parentId\":88248150772,\"children\":[],\"siblings\":[],\"nodeName\":\"FooterBlock\",\"attributes\":{\"_id\":\"FooterBlock\",\"title\":\"Footer\",\"textAlign\":\"center\",\"desktopFooterLinks\":[{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_PRIVACY_NOTICE_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PRIVACY_NOTICE_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_TERMS_CONDITIONS_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_TERMS_CONDITIONS_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":true,\"label\":\"$FOOTER_SUPPORT_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_SUPPORT_URL\",\"isNoFollow\":true},{\"shouldOpenNewTab\":false,\"label\":\"$FOOTER_PORN_DIRECTORY_LABEL\",\"path\":\"custom\",\"customPath\":\"$FOOTER_PORN_DIRECTORY_URL\"},{\"shouldOpenNewTab\":true,\"label\":\"Login\",\"path\":\"custom\",\"customPath\":\"$LOGIN_URL\",\"isNoFollow\":true}],\"tagLine\":\"$MARKETING_TEXT\",\"inquiryText\":\"$INQUIRY_TEXT\",\"legalText\":\"$LEGAL_DISCLAIMER_TEXT\",\"customVisualAttributes\":{\"linkColor\":\"#ffffff\",\"linkColorOnHover\":\"#ffffff\",\"businessLinkColor\":\"#ffffff\",\"businessLinkColorOnHover\":\"#ffffff\"},\"footerLogos\":{\"probillerEnable\":true,\"probillerLink\":\"\",\"probillerText\":\"$PROBILLER_TEXT\",\"rtaEnable\":true,\"mgEnable\":true},\"hasRssFeed\":false,\"hasSameLinksForMobile\":true}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[50521062987],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"siblings\":[],\"nodeName\":\"BackgroundWrappersGroup\",\"attributes\":{\"_id\":\"BackgroundWrapperBlock\",\"styles\":{\"enableMediabookAsset\":false,\"backgrounds\":[{\"backgroundType\":\"gradient\",\"backgroundSize\":\"cover\",\"background\":\"linear-gradient(180deg, #000000 0%, #000000 100%);\"}],\"borderSize\":\"0\",\"borderRoundness\":\"0\",\"minHeight\":\"1em\",\"matchParentHeight\":false,\"paddingMultiplier\":0,\"backgroundColor\":\"#000000\",\"verticalAlign\":\"flex-start\",\"horizontalAlignment\":\"center\"},\"continuity\":{\"enableContinuity\":false}}}],\"siblings\":[],\"nodeName\":\"Column\",\"attributes\":{\"_id\":\"Column\"}}],\"siblings\":[46119839435,19331877195],\"nodeName\":\"Row\",\"attributes\":{\"_id\":\"Row\"}}],\"type\":\"page\",\"themeConfig\":{},\"metaTagsConfig\":\"{}\",\"isUpdated\":true}",
+      "type": "page",
+      "name": "Login",
+      "instance": null,
+      "blocks": [],
+      "accountV2Blocks": [],
+      "playerBlocks": [],
+      "joinAppBlocks": [],
+      "joinApp2Blocks": [],
+      "filterV2Blocks": [],
+      "navigationBlocks": [],
+      "purchaseDrawerV3Blocks": [],
+      "rteV3Blocks": [],
+      "structureConfigs": [],
+      "parentStructure": null,
+      "children": null
+    }
+  ],
+  "instanceClassification": [
+    {
+      "id": 201,
+      "name": "Tour",
+      "description": "Classification used for Tours"
+    }
+  ],
+  "routeList": {
+    "id": 2,
+    "label": "Default Tour List",
+    "public": true,
+    "routes": [
+      {
+        "routeType": "HOME",
+        "pattern": "/",
+        "priority": 1,
+        "redirects": [
+          {
+            "pattern": "/tour/home",
+            "priority": 2,
+            "httpCode": 301,
+            "route": null
+          },
+          {
+            "pattern": "/signup/signup.php.*",
+            "priority": 4,
+            "httpCode": 301,
+            "route": null
+          },
+          {
+            "pattern": "/track/{{nats|toQuery}}.*",
+            "priority": 5,
+            "httpCode": 301,
+            "route": null
+          }
+        ]
+      },
+      {
+        "routeType": "EXPLORE_SCENES",
+        "pattern": "/scenes",
+        "priority": 2,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_GALLERIES",
+        "pattern": "/galleries",
+        "priority": 3,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_ACTORS",
+        "pattern": "/models",
+        "priority": 4,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_SITES",
+        "pattern": "/sites",
+        "priority": 5,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_BTS",
+        "pattern": "/bts",
+        "priority": 6,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_MOVIES",
+        "pattern": "/movies",
+        "priority": 7,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_SERIES",
+        "pattern": "/series",
+        "priority": 8,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_CATEGORIES",
+        "pattern": "/categories",
+        "priority": 9,
+        "redirects": []
+      },
+      {
+        "routeType": "GALLERY",
+        "pattern": "/gallery/{{release.id}}/{{release.slug}}?",
+        "priority": 10,
+        "redirects": []
+      },
+      {
+        "routeType": "PLAYER",
+        "pattern": "/scene/{{release.id}}/{{release.slug}}",
+        "priority": 12,
+        "redirects": []
+      },
+      {
+        "routeType": "ACTOR_PROFILE",
+        "pattern": "/model/{{actor.id}}/{{actor.slug}}",
+        "priority": 13,
+        "redirects": [
+          {
+            "pattern": "/track/{{nats|toQuery}}/tour/model/{{actor.id|match}}.*",
+            "priority": 6,
+            "httpCode": 301,
+            "route": null
+          },
+          {
+            "pattern": "/track/{{nats|toQuery}}/models/view/id/{{actor.id|match}}.*",
+            "priority": 7,
+            "httpCode": 301,
+            "route": null
+          }
+        ]
+      },
+      {
+        "routeType": "MOVIE_PROFILE",
+        "pattern": "/movie/{{release.id}}/{{release.slug}}?",
+        "priority": 14,
+        "redirects": []
+      },
+      {
+        "routeType": "BTS_PROFILE",
+        "pattern": "/bts/{{release.id}}/{{release.slug}}?",
+        "priority": 15,
+        "redirects": []
+      },
+      {
+        "routeType": "SERIES_PROFILE",
+        "pattern": "/series/{{release.id}}/{{release.slug}}?",
+        "priority": 16,
+        "redirects": []
+      },
+      {
+        "routeType": "SEARCH",
+        "pattern": "/search",
+        "priority": 17,
+        "redirects": []
+      },
+      {
+        "routeType": "SITEMAP",
+        "pattern": "/porn-sitemap/{{type}}?",
+        "priority": 18,
+        "redirects": []
+      },
+      {
+        "routeType": "COLLECTION_PROFILE",
+        "pattern": "/collection/{{collection.id}}/{{collection.slug}}?",
+        "priority": 22,
+        "redirects": []
+      },
+      {
+        "routeType": "EXPLORE_COLLECTIONS",
+        "pattern": "/collections",
+        "priority": 23,
+        "redirects": []
+      },
+      {
+        "routeType": "SEARCH_VIDEOS",
+        "pattern": "/searchvideos",
+        "priority": 24,
+        "redirects": []
+      },
+      {
+        "routeType": "SEARCH_MODELS",
+        "pattern": "/searchmodels",
+        "priority": 25,
+        "redirects": []
+      },
+      {
+        "routeType": "JOIN",
+        "pattern": "/join",
+        "priority": 26,
+        "redirects": [
+          {
+            "pattern": "/tour/signup",
+            "priority": 3,
+            "httpCode": 301,
+            "route": null
+          },
+          {
+            "pattern": "/tour/join",
+            "priority": 8,
+            "httpCode": 301,
+            "route": null
+          }
+        ]
+      },
+      {
+        "routeType": "EXPLORE_UNLOCKS",
+        "pattern": "/myunlocks",
+        "priority": 27,
+        "redirects": []
+      },
+      {
+        "routeType": "MY_LIBRARY",
+        "pattern": "/mylibrary",
+        "priority": 28,
+        "redirects": []
+      }
+    ]
+  },
+  "site": {
+    "brand": {
+      "id": 1331,
+      "name": "MyPervyFamily",
+      "externalKey": "mypervyfamily",
+      "configs": [
+        {
+          "id": 11301,
+          "brandId": 1331,
+          "name": "legalConfig",
+          "value": "{\"privacyPolicy\":\"https://www.mypervyfamily.com/legal/privacy\",\"termsServices\":\"https://www.mypervyfamily.com/legal/tos\"}"
+        },
+        {
+          "id": 11311,
+          "brandId": 1331,
+          "name": "brandConfigFooter",
+          "value": "{\"corpFooterImageUrl\":{\"desktop\":\"https://static-landing-assets.project1content.com/p1/Integration/Corp_Address/Default/PC/corp_pc.png\",\"mobile\":\"https://static-landing-assets.project1content.com/p1/Integration/Corp_Address/Default/MO/corp_mo.png\"}}"
+        }
+      ]
+    },
+    "id": 3361,
+    "name": "MyPervyFamily"
+  },
+  "hasExploreActorsPage": false,
+  "affiliateId": 9496,
+  "campaignId": 56585425,
+  "correlationId": "7d4a47c6-3449-5007-9dd3-add50dd889ea",
+  "domain": {
+    "id": 14391,
+    "name": null,
+    "description": "www.mypervyfamily.com",
+    "hostname": "www.mypervyfamily.com",
+    "siteUuid": "b652e5ac-bee7-4c28-8590-7073d7a42b88",
+    "siteKey": null,
+    "siteKeyV3": "6LchEN0pAAAAAJCBg1IBNrXAdpgI_B5n4yiWqmu2",
+    "siteVerificationKey": "pArALD9nH2rdYK0jOU3CBRFbXe-3F5vZoa_kNXzgVTk",
+    "trackingId": null,
+    "bingVerificationKey": null,
+    "yandexVerificationKey": null,
+    "rootFiles": null,
+    "atlasEntrypointId": 11265,
+    "atlasNetworkId": 147,
+    "atlasNetworkCode": "MPF",
+    "atlasSiteId": 788,
+    "atlasDomain": "mypervyfamily.com",
+    "atlasOverrideCode": null,
+    "storefrontId": null,
+    "streamateReferrerId": null,
+    "streamateApplicationId": null,
+    "streamateSecret": null,
+    "streamateWhiteLabelBaseUrl": null,
+    "pixelTrackingUrl": null,
+    "supportUrl": null,
+    "defaultInstanceId": null,
+    "fallbackInstanceId": null,
+    "defaultPackageId": null,
+    "ga4": "G-GM93QB6117",
+    "spartanContentBrand": "leviproductions",
+    "tjSiteName": "",
+    "tjSiteId": "",
+    "googleSocialLoginEnable": false,
+    "googleSocialClientId": "",
+    "f4FApiKey": "",
+    "f4FMpCode": "",
+    "f4FWhitelabelDomain": "",
+    "sfwEnable": false,
+    "isLoyaltyActive": false,
+    "atsDefaultCode": "eyJhIjo5NDk2LCJuIjoxNDcsInMiOjc4OCwicCI6MywiYyI6NTY1ODU0MjUsImUiOjExMjY1fQ==",
+    "programId": 3
+  },
+  "entryPointId": 11265,
+  "forceSFW": true,
+  "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtaW5kZ2VlayIsImF1ZCI6Im1pbmRnZWVrIiwic3ViIjoiaW5zdGFuY2UtYXBpIiwiZXhwIjoxNzgwMTg1NjAwLCJpZCI6MzMwMDUxLCJicmFuZCI6Im15cGVydnlmYW1pbHkiLCJob3N0bmFtZSI6Ind3dy5teXBlcnZ5ZmFtaWx5LmNvbSIsInN0b3JlSWQiOm51bGx9.IBbR-2ULjz1wt6QPbdHqf0tWTewIhFqBMZSCaWgVk2c",
+  "networkId": 147
+}

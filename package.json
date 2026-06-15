@@ -1,0 +1,52 @@
+{
+  "name": "conimo-4.0",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
+    "lint": "tsc --noEmit",
+    "start": "node dist/server.cjs",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@google/genai": "^2.6.0",
+    "@tailwindcss/vite": "^4.2.1",
+    "@vidstack/react": "^1.12.13",
+    "artplayer": "^5.4.0",
+    "axios": "^1.16.1",
+    "cheerio": "^1.2.0",
+    "cloudscraper": "^4.6.0",
+    "compromise": "^14.15.1",
+    "cors": "^2.8.6",
+    "dashjs": "^5.1.1",
+    "express": "^5.0.1",
+    "framer-motion": "^12.34.3",
+    "http-proxy-middleware": "^4.0.0",
+    "motion": "^12.34.3",
+    "plyr": "^3.8.4",
+    "plyr-react": "^6.0.0",
+    "porn-for-life": "^1.0.45",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.12.0",
+    "tailwindcss": "^4.2.1",
+    "torrent-name-parser": "^0.6.5",
+    "tslib": "^2.6.2",
+    "vidstack": "^1.12.13"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "esbuild": "^0.28.0",
+    "gh-pages": "^6.3.0",
+    "puppeteer": "^25.1.0",
+    "tsx": "^4.22.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

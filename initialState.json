@@ -1,0 +1,702 @@
+{
+  "client": {
+    "appSessionId": "7dff48b3-56a8-56a3-9915-5fdd94bdc12b",
+    "baseUrl": "https://www.realitykings.com",
+    "connection": "Corporate",
+    "cookies": {
+      "__s": "6A19B8E4-42FE72EA01BB37CCA8-162EB"
+    },
+    "device": {
+      "isAndroid": false,
+      "isApple": false,
+      "isBot": false,
+      "isDesktop": true,
+      "isMobile": false,
+      "isPhone": false,
+      "isTablet": false
+    },
+    "domain": "www.realitykings.com",
+    "geo": {
+      "city": "City of London",
+      "continentCode": "EU",
+      "countryCode": "GB",
+      "postalCode": "EC4R",
+      "region": "ENG"
+    },
+    "hasWebPSupport": false,
+    "initUuid": null,
+    "ip": "34.34.246.187",
+    "isInternal": false,
+    "nodeHeaders": {
+      "NODE-51D": "eyJ4LTUxZC1icm93c2VybmFtZSI6IlVua25vd24iLCJ4LTUxZC1icm93c2VydmVyc2lvbiI6IlVua25vd24iLCJ4LTUxZC1icm93c2Vyc291cmNlcHJvamVjdCI6IlVua25vd24iLCJ4LTUxZC1icm93c2VyZmFtaWx5IjoiVW5rbm93biIsIngtNTFkLWJyb3dzZXJyZWxlYXNlYWdlIjoiTi9BIiwieC01MWQtYnJvd3NlcmRpc2NvbnRpbnVlZGFnZSI6Ik4vQSIsIngtNTFkLWxheW91dGVuZ2luZSI6IlVua25vd24iLCJ4LTUxZC1wbGF0Zm9ybW5hbWUiOiJVbmtub3duIiwieC01MWQtcGxhdGZvcm12ZXJzaW9uIjoiVW5rbm93biIsIngtNTFkLXBsYXRmb3JtZGlzY29udGludWVkYWdlIjoiTi9BIiwieC01MWQtZGV2aWNldHlwZSI6IkRlc2t0b3AiLCJ4LTUxZC1pc21vYmlsZSI6IkZhbHNlIiwieC01MWQtaGFyZHdhcmVtb2RlbCI6IlVua25vd24iLCJ4LTUxZC1oYXJkd2FyZWZhbWlseSI6IkVtdWxhdG9yIiwieC01MWQtaGFyZHdhcmV2ZW5kb3IiOiJVbmtub3duIiwieC01MWQtamF2YXNjcmlwdCI6IlVua25vd24iLCJ4LTUxZC1qYXZhc2NyaXB0dmVyc2lvbiI6IlVua25vd24iLCJ4LTUxZC12aWV3cG9ydCI6IlRydWUiLCJ4LTUxZC1odG1sNSI6IlRydWUiLCJ4LTUxZC1odHRwMiI6IlVua25vd24iLCJ4LTUxZC1pc2NyYXdsZXIiOiJGYWxzZSIsIngtNTFkLXNjcmVlbmluY2hlc2RpYWdvbmFscm91bmRlZCI6IlVua25vd24iLCJ4LTUxZC1odHRwbGl2ZXN0cmVhbWluZyI6IkZhbHNlIiwieC01MWQtaGFyZHdhcmV2aWRlb2NvZGVjc2RlY29kZSI6IlVua25vd24iLCJ4LTUxZC1tZXRhLWRhdGFmaWxlZGF0ZSI6IjIwMjYtMDUtMjciLCJ4LTUxZC1tZXRhLWRhdGFmaWxldmVyc2lvbiI6IjQuMS4wLjAiLCJ4LTUxZC1kZXZ0eXBlIjoiRGVza3RvcCIsIngtNTFkLWh3bW9kZWwiOiJVbmtub3duIiwieC01MWQtaHdmYW1pbHkiOiJFbXVsYXRvciJ9",
+      "NODE-MAXMIND": "eyJ4LWdlby1hc24iOiIzOTY5ODIiLCJ4LWdlby1hcy1vcmciOiJHb29nbGUgTExDIiwieC1nZW8tY2l0eSI6IkNpdHkgb2YgTG9uZG9uIiwieC1nZW8tY29udGluZW50LWNvZGUiOiJFVSIsIngtZ2VvLWNvbnRpbmVudC1uYW1lIjoiRXVyb3BlIiwieC1nZW8tbGF0aXR1ZGUiOiI1MS41MTY0MDAiLCJ4LWdlby1sb25naXR1ZGUiOiItMC4wOTMwMDAiLCJ4LWdlby1jb3VudHJ5LWNvZGUiOiJHQiIsIngtZ2VvLWNvdW50cnktbmFtZSI6IlVuaXRlZCBLaW5nZG9tIiwieC1nZW8tcG9zdGFsLWNvZGUiOiJFQzRSIiwieC1nZW8tcmVnaW9uLWNvZGUiOiJFTkciLCJ4LWdlby1yZWdpb24tbmFtZSI6IkVuZ2xhbmQiLCJ4LWdlby10aW1lLXpvbmUiOiJFdXJvcGUvTG9uZG9uIiwieC1nZW8tY29ubmVjdGlvbi10eXBlIjoiQ29ycG9yYXRlIiwieC1nZW8taXNwIjoiR29vZ2xlIENsb3VkIn0="
+    },
+    "userAgent": "Mozilla/5.0"
+  },
+  "cookieBanner": {
+    "categories": [
+      {
+        "id": "1",
+        "name": "Essential Cookies",
+        "description": "These cookies are necessary for the Website to function and cannot be switched off in our systems as they enable core website functionality. They are used to carry out the transmission of a communication, provide you with the requested services or are set in response to actions made by you, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block these cookies, but that may cause some parts of the Website to not work properly. ",
+        "defaultChecked": "1",
+        "category_history_id": "1",
+        "cookies": {
+          "1": {
+            "name": "access_token_ma",
+            "description": "access_token_ma cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for authorizing users.",
+            "duration": "86400",
+            "cookie_history_id": "1"
+          },
+          "11": {
+            "name": "refresh_token_ma",
+            "description": "refresh_token_ma cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to keep the user logged into the site.",
+            "duration": "86400",
+            "cookie_history_id": "11"
+          },
+          "21": {
+            "name": "instance_token",
+            "description": "instance_token cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to persist the user's site version and associated data.",
+            "duration": "86400",
+            "cookie_history_id": "21"
+          },
+          "31": {
+            "name": "cb-scene",
+            "description": "cb-scene cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to count the number of scenes a user has played to prevent them from watching scenes once they have reached their limit of scenes they can watch.",
+            "duration": "86400",
+            "cookie_history_id": "31"
+          },
+          "41": {
+            "name": "cb-trailer",
+            "description": "cb-trailer cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to count the number of trailers user has played to prevent them from watching trailers once they have reached their limit of scenes they can watch.",
+            "duration": "86400",
+            "cookie_history_id": "41"
+          },
+          "61": {
+            "name": "iAgree",
+            "description": "iAgree cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to track if a user has selected \"i agree\" to no longer show it to the user on later pages.",
+            "duration": "31536000",
+            "cookie_history_id": "61"
+          },
+          "71": {
+            "name": "atlas_joinSubmit",
+            "description": "atlas_joinSubmit cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to track and limit the join counts for any single page rendered.",
+            "duration": "60",
+            "cookie_history_id": "71"
+          },
+          "81": {
+            "name": "ats",
+            "description": "ats cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store the referral site.",
+            "duration": "2592000",
+            "cookie_history_id": "81"
+          },
+          "91": {
+            "name": "atss",
+            "description": "atss cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to assign a unique id to a user’s session.",
+            "duration": "31536000",
+            "cookie_history_id": "91"
+          },
+          "101": {
+            "name": "atsm",
+            "description": "atsm cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to identify the traffic of the site.",
+            "duration": "86400",
+            "cookie_history_id": "101"
+          },
+          "111": {
+            "name": "atsd",
+            "description": "atsd cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to assign a unique id to identify a unique visitor",
+            "duration": "86400",
+            "cookie_history_id": "111"
+          },
+          "121": {
+            "name": "atlas_debug",
+            "description": "atlas_debug cookie description",
+            "domain": "First Party",
+            "purpose": "Is used internally to help debug issues.",
+            "duration": "31536000",
+            "cookie_history_id": "121"
+          },
+          "131": {
+            "name": "atstrackPiece1",
+            "description": "atstrackPiece1 cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store and track where the user came from to keep the referral ad and affiliate id.",
+            "duration": "3024000",
+            "cookie_history_id": "131"
+          },
+          "141": {
+            "name": "atstrackPiece2",
+            "description": "atstrackPiece2 cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store and track where the user came from to keep the referral ad and affiliate id.",
+            "duration": "3024000",
+            "cookie_history_id": "141"
+          },
+          "211": {
+            "name": "etaguid",
+            "description": "etaguid cookie description",
+            "domain": "First Party",
+            "purpose": "This cookie is used to serve ads to the user.",
+            "duration": "31536000",
+            "cookie_history_id": "211"
+          },
+          "251": {
+            "name": "RNLBSERVERID",
+            "description": "RNLBSERVERID cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to spread spread traffic to different servers.",
+            "duration": "31536000",
+            "cookie_history_id": "251"
+          },
+          "261": {
+            "name": "LBSERVERID",
+            "description": "LBSERVERID cookie description",
+            "domain": "First Party",
+            "purpose": "Is used by the site to protect from possible attacks.",
+            "duration": "31536000",
+            "cookie_history_id": "261"
+          },
+          "271": {
+            "name": "sessionid",
+            "description": "sessionid cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store the session information when being sent to a third party biller.",
+            "duration": "31536000",
+            "cookie_history_id": "271"
+          },
+          "281": {
+            "name": "connect.sid",
+            "description": "connect.sid cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store the session information when being sent to a third party biller.",
+            "duration": "3600",
+            "cookie_history_id": "281"
+          },
+          "291": {
+            "name": "__s",
+            "description": "__s cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for security tracking and preventing fraud.",
+            "duration": "31536000",
+            "cookie_history_id": "291"
+          },
+          "411": {
+            "name": "cookieConsent",
+            "description": "cookieConsent cookie description",
+            "domain": "First Party",
+            "purpose": "It logs user's cookie preference choice.",
+            "duration": "15552000",
+            "cookie_history_id": "411"
+          },
+          "421": {
+            "name": "sl_google",
+            "description": "sl_google cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store and pass the google account of the user to be used for the google sign in process.",
+            "duration": "86400",
+            "cookie_history_id": "421"
+          },
+          "451": {
+            "name": "initialUrl",
+            "description": "initialUrl cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to correctly redirect the user once they log in.",
+            "duration": "31536000",
+            "cookie_history_id": "451"
+          },
+          "461": {
+            "name": "apt_visited",
+            "description": "apt_visited cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to show the safe for work pages for users that have not verified their age.",
+            "duration": "31536000",
+            "cookie_history_id": "461"
+          },
+          "481": {
+            "name": "_grecaptcha",
+            "description": "_grecaptcha cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for reCAPTCHA to make an assessment if the traffic to the site is legitimate or malicious",
+            "duration": "31536000",
+            "cookie_history_id": "481"
+          },
+          "531": {
+            "name": "atlasData",
+            "description": "AtlasData cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to maintain the users information if they are redirected to 3rd party applications in the middle of the join flow.",
+            "duration": "31536000",
+            "cookie_history_id": "531"
+          },
+          "561": {
+            "name": "csam_cr_form",
+            "description": "csam_cr_form cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store the URLs for the CSAM content removal form.",
+            "duration": "31536000",
+            "cookie_history_id": "561"
+          },
+          "571": {
+            "name": "tracking",
+            "description": "tracking cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to preserve certain values that are needed for the join process.",
+            "duration": "31536000",
+            "cookie_history_id": "571"
+          },
+          "581": {
+            "name": "logout",
+            "description": "logout cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to redirect the user to the logout page once they logout from the site.",
+            "duration": "31536000",
+            "cookie_history_id": "581"
+          },
+          "677": {
+            "name": "notification_acknowledged",
+            "description": "Is used for retaining the user's acceptance of the upcoming changes to the Terms and Conditions",
+            "domain": "FirstParty",
+            "purpose": "Is used for retaining the user's acceptance of the upcoming changes to the Terms and Conditions",
+            "duration": "86400",
+            "cookie_history_id": "677"
+          },
+          "685": {
+            "name": "catfish_closed",
+            "description": "Stores closed state to prevent reopening of this specific Banner from reopening.",
+            "domain": "First Party",
+            "purpose": "Stores closed state to prevent reopening of this specific Banner from reopening.",
+            "duration": "31536000",
+            "cookie_history_id": "685"
+          },
+          "687": {
+            "name": "exitpop_closed",
+            "description": "Stores closed state to prevent reopening of the exit pop up from reopening.",
+            "domain": "First Party",
+            "purpose": "Stores closed state to prevent reopening of the exit pop up from reopening.",
+            "duration": "31536000",
+            "cookie_history_id": "687"
+          },
+          "689": {
+            "name": "player_timeline_expanded",
+            "description": "Stores and persists the state (expanded or not) of the Players timeline tags.",
+            "domain": "First Party",
+            "purpose": "Stores and persists the state (expanded or not) of the Players timeline tags.",
+            "duration": "31536000",
+            "cookie_history_id": "689"
+          },
+          "691": {
+            "name": "filter:data",
+            "description": "Store current selected filters on the search page for proper tag refresh.",
+            "domain": "First Party",
+            "purpose": "Store current selected filters on the search page for proper tag refresh.",
+            "duration": "31536000",
+            "cookie_history_id": "691"
+          }
+        }
+      },
+      {
+        "id": "11",
+        "name": "Functional Cookies",
+        "description": "These cookies are set to implement additional functionalities and/or to enhance features and website performance, improving your experience on the Website. This type of cookies allows us to recognize you when you return to the Website and to remember, for example, your choice of language and your preferences such as your region.",
+        "defaultChecked": "0",
+        "category_history_id": "11",
+        "cookies": {
+          "51": {
+            "name": "last_scene_id",
+            "description": "last_scene_id cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for scene continuity, storing the last viewed scene to the user to be redirected to that scene once they join/login.",
+            "duration": "31536000",
+            "cookie_history_id": "51"
+          },
+          "301": {
+            "name": "form_values",
+            "description": "form_values cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to store certain user values (email, username, firstname, lastname, zipCode, country code) during the join process in case the user leaves and then comes back.",
+            "duration": "31536000",
+            "cookie_history_id": "301"
+          },
+          "311": {
+            "name": "goals",
+            "description": "goals cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used to store and track the payment site id of the user.",
+            "duration": "31536000",
+            "cookie_history_id": "311"
+          },
+          "321": {
+            "name": "tj_UUID",
+            "description": "tj_UUID cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to serve Ads to the User.",
+            "duration": "1296000",
+            "cookie_history_id": "321"
+          },
+          "331": {
+            "name": "tj_UUID_v2",
+            "description": "tj_UUID_v2 cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to serve Ads to the User.",
+            "duration": "1296000",
+            "cookie_history_id": "331"
+          },
+          "591": {
+            "name": "banner",
+            "description": "banner cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to show certain banner types to the user.",
+            "duration": "31536000",
+            "cookie_history_id": "591"
+          },
+          "601": {
+            "name": "prejoin",
+            "description": "prejoin cookie description",
+            "domain": "First Party",
+            "purpose": "Is used in the prejoin form to retain the username and email that users have entered so the user doesn't have to enter it again.",
+            "duration": "31536000",
+            "cookie_history_id": "601"
+          },
+          "611": {
+            "name": "release",
+            "description": "release cookie description",
+            "domain": "First Party",
+            "purpose": "Is used by the player to determine if the timeline is expandable.",
+            "duration": "31536000",
+            "cookie_history_id": "611"
+          },
+          "621": {
+            "name": "sceneContinuity",
+            "description": "sceneContinuity cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to ensure that the user is directed to the same scene page they were viewing once they join and log into the site.",
+            "duration": "31536000",
+            "cookie_history_id": "621"
+          },
+          "651": {
+            "name": "sessId",
+            "description": "sessId cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for preventing unEssential Cookies duplicate queries between the drawer and the payment gateway.",
+            "duration": "31536000",
+            "cookie_history_id": "651"
+          }
+        }
+      },
+      {
+        "id": "21",
+        "name": "Analytics Cookies",
+        "description": "These cookies allow us to recognize and count the number of users and to see how you use and explore the Website. For example, they allow us to carry out statistical analysis of page use, interactions, and paths you take through the Website to improve its performance. We use Google as a service provider to collect and analyze information about how you use the Website, including by collecting website activity data through first-party cookies set by our domains, and third-party cookies set by Google. ",
+        "defaultChecked": "0",
+        "category_history_id": "21",
+        "cookies": {
+          "151": {
+            "name": "_ga",
+            "description": "_ga cookie description",
+            "domain": "First Party",
+            "purpose": "Is set by Google Analytics Cookies and is used to distinguish unique users by assigning a randomly generated number as a client identifier.",
+            "duration": "3024000",
+            "cookie_history_id": "151"
+          },
+          "161": {
+            "name": "_gat",
+            "description": "_gat cookie description",
+            "domain": "First Party",
+            "purpose": "s used to throttle the request rate - limiting the collection of data on high traffic sites",
+            "duration": "86400",
+            "cookie_history_id": "161"
+          },
+          "171": {
+            "name": "_gid",
+            "description": "_gid cookie description",
+            "domain": "First Party",
+            "purpose": "Is set by Google Analytics Cookies and is used to distinguish unique users by assigning a randomly generated number as a client identifier.",
+            "duration": "86400",
+            "cookie_history_id": "171"
+          },
+          "181": {
+            "name": "_ga_<wpid>",
+            "description": "_ga_<wpid> cookie description",
+            "domain": "First Party",
+            "purpose": "Is set by Google Analytics Cookies and is used to distinguish unique users by assigning a randomly generated number as a client identifier",
+            "duration": "31536000",
+            "cookie_history_id": "181"
+          },
+          "191": {
+            "name": "_gat_instanceTracker",
+            "description": "_gat_instanceTracker cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to throttle the request rate - limiting the collection of data on high traffic sites.",
+            "duration": "60",
+            "cookie_history_id": "191"
+          },
+          "201": {
+            "name": "_gat_secondTracker",
+            "description": "_gat_secondTracker cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to throttle the request rate - limiting the collection of data on high traffic sites.",
+            "duration": "60",
+            "cookie_history_id": "201"
+          },
+          "221": {
+            "name": "d_uid",
+            "description": "d_uid cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes",
+            "duration": "2592000",
+            "cookie_history_id": "221"
+          },
+          "231": {
+            "name": "d_uidb",
+            "description": "d_uidb cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes",
+            "duration": "2592000",
+            "cookie_history_id": "231"
+          },
+          "241": {
+            "name": "d_fs",
+            "description": "d_fs cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes",
+            "duration": "31536000",
+            "cookie_history_id": "241"
+          },
+          "341": {
+            "name": "vjs-analytics",
+            "description": "vjs-Analytics Cookies cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes",
+            "duration": "86400",
+            "cookie_history_id": "341"
+          },
+          "361": {
+            "name": "HSID",
+            "description": "HSID cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used as a security cookie to confirm visitor authenticity, prevent fraudulent use of login data and protect user data from unauthorized access.",
+            "duration": "31536000",
+            "cookie_history_id": "361"
+          },
+          "371": {
+            "name": "SIDCC",
+            "description": "SIDCC cookie description",
+            "domain": "Third Party",
+            "purpose": "Is set by Google and is used to protect users' data from unauthorized access.",
+            "duration": "31536000",
+            "cookie_history_id": "371"
+          },
+          "381": {
+            "name": "SSID",
+            "description": "SSID cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used to provide ad delivery or retargeting.",
+            "duration": "31536000",
+            "cookie_history_id": "381"
+          },
+          "391": {
+            "name": "SID",
+            "description": "SID cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used to provide ad delivery or retargeting, and fraud prevention.",
+            "duration": "31536000",
+            "cookie_history_id": "391"
+          },
+          "401": {
+            "name": "APISID",
+            "description": "APISID cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used to store user preferences and information when viewing pages with Google maps on them.",
+            "duration": "31536000",
+            "cookie_history_id": "401"
+          },
+          "431": {
+            "name": "bs",
+            "description": "bs cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes",
+            "duration": "86400",
+            "cookie_history_id": "431"
+          },
+          "441": {
+            "name": "_m",
+            "description": "_m cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes",
+            "duration": "31536000",
+            "cookie_history_id": "441"
+          },
+          "471": {
+            "name": "a2cid",
+            "description": "a2cid cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes for pixel tracking.",
+            "duration": "600",
+            "cookie_history_id": "471"
+          },
+          "491": {
+            "name": "lscache-is",
+            "description": "lscache-is cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes.",
+            "duration": "31536000",
+            "cookie_history_id": "491"
+          },
+          "501": {
+            "name": "ld:",
+            "description": "ld: cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for an internal tool for Analytics Cookies purposes.",
+            "duration": "31536000",
+            "cookie_history_id": "501"
+          },
+          "511": {
+            "name": "pa",
+            "description": "pa cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used for Analytics Cookies purposes. by using Real User Monitoring to track visitors on our website.",
+            "duration": "31536000",
+            "cookie_history_id": "511"
+          },
+          "521": {
+            "name": "pa_enable",
+            "description": "pa_enable cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used for Analytics Cookies purposes. by using Real User Monitoring to track visitors on our website.",
+            "duration": "31536000",
+            "cookie_history_id": "521"
+          },
+          "541": {
+            "name": "Referrer-Page-Type",
+            "description": "Referrer-Page-Type cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes by storing the previous page the user was on.",
+            "duration": "31536000",
+            "cookie_history_id": "541"
+          },
+          "551": {
+            "name": "Referrer-Page-Parameters",
+            "description": "Referrer-Page-Parameters cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes by storing the previous page the user was on.",
+            "duration": "31536000",
+            "cookie_history_id": "551"
+          },
+          "641": {
+            "name": "dmp",
+            "description": "dmp cookie description",
+            "domain": "First Party",
+            "purpose": "Is used for Analytics Cookies purposes",
+            "duration": "31536000",
+            "cookie_history_id": "641"
+          },
+          "661": {
+            "name": "slfp",
+            "description": "slfp cookie description",
+            "domain": "Third Party",
+            "purpose": "Is used for Analytics Cookies purposes for pixel tracking.",
+            "duration": "2592000",
+            "cookie_history_id": "661"
+          },
+          "681": {
+            "name": "page_visits",
+            "description": "Stores the number of pages the user viewed to than be used to show a pop up or ad.",
+            "domain": "First Party",
+            "purpose": "Stores the number of pages the user viewed to than be used to show a pop up or ad.",
+            "duration": "31536000",
+            "cookie_history_id": "681"
+          },
+          "683": {
+            "name": "catfish_pages_visited",
+            "description": "Stores the number of pages the user viewed to than trigger a Banner to appear.",
+            "domain": "First Party",
+            "purpose": "Stores the number of pages the user viewed to than trigger a Banner to appear.",
+            "duration": "31536000",
+            "cookie_history_id": "683"
+          }
+        }
+      },
+      {
+        "id": "31",
+        "name": "Targeting Cookies",
+        "description": "These cookies record your visits on the Website, the pages you visit and the links you follow to enable us to make the Website more relevant to your interests and to help us serve ads that might be of interest to you. We and our advertising partners set these cookies to provide behavioral advertising and re-marketing analytical data. If you choose to disable this type of cookies, you might still see advertisements, but they will not be tailored to your interests.",
+        "defaultChecked": "0",
+        "category_history_id": "31",
+        "cookies": {
+          "351": {
+            "name": "player_iteration",
+            "description": "player_iteration cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to track the amount of times the user watches scenes to determine when to play an add.",
+            "duration": "86400",
+            "cookie_history_id": "351"
+          },
+          "631": {
+            "name": "addsTracking",
+            "description": "addsTracking cookie description",
+            "domain": "First Party",
+            "purpose": "Is used to track ads that the user saw on the player page.",
+            "duration": "31536000",
+            "cookie_history_id": "631"
+          },
+          "671": {
+            "name": "blue-tag.min.js",
+            "description": "blue-tag.min.js cookie description",
+            "domain": "Third Party",
+            "purpose": "This cookie is used to help target certain elements on the site.",
+            "duration": "15552000",
+            "cookie_history_id": "671"
+          },
+          "673": {
+            "name": "remarket-data",
+            "description": "remarket-data cookie description",
+            "domain": "Third Party",
+            "purpose": "This cookie is used to ensure that the same user’s information is not captured multiple times. It stores general details such as the user’s IP address, User-Agent, timestamp, and time zone.",
+            "duration": "604800",
+            "cookie_history_id": "673"
+          },
+          "675": {
+            "name": "rtg_usr",
+            "description": "Is used for retargeting purposes for pixel tracking.",
+            "domain": "Third Party",
+            "purpose": "Is used for retargeting purposes for pixel tracking.",
+            "duration": "2592000",
+            "cookie_history_id": "675"
+          },
+          "679": {
+            "name": "rtgio_tid",
+            "description": "Is used for retargeting purposes for pixel tracking.",
+            "domain": "Third Party",
+            "purpose": "Is used for retargeting purposes for pixel tracking.",
+            "duration": "86400",
+            "cookie_history_id": "679"
+          }
+        }
+      }
+    ],
+    "version": "11",
+    "allowedList": []
+  }
+}

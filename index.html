@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>LinkVault</title>
+    <style>
+      :root {
+        --accent: #3b82f6;
+        --bg: #000000;
+        --card-bg: #111111;
+        --text: #ffffff;
+        --system-font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", "Inter", sans-serif;
+        --ease-out-expo: cubic-bezier(0.19, 1, 0.22, 1);
+        --ease-spring: cubic-bezier(0.3, 1.4, 0.6, 1);
+      }
+
+      html, body {
+        font-family: var(--system-font);
+        background-color: var(--bg);
+        color: var(--text);
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        overscroll-behavior: none;
+      }
+
+      #root {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      ::-webkit-scrollbar {
+        display: none;
+      }
+
+      * {
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+        box-sizing: border-box;
+        -webkit-tap-highlight-color: transparent;
+      }
+
+      @keyframes slideUp {
+        0% {
+          opacity: 0;
+          transform: translateY(8px);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @keyframes slideForward {
+        0% {
+          opacity: 0;
+          transform: translateX(20px);
+        }
+        100% {
+          opacity: 1;
+          transform: translateX(0);
+        }
+      }
+
+      @keyframes slideBackward {
+        0% {
+          opacity: 0;
+          transform: translateX(-20px);
+        }
+        100% {
+          opacity: 1;
+          transform: translateX(0);
+        }
+      }
+
+      @keyframes shimmer {
+        100% {
+          transform: translateX(100%);
+        }
+      }
+
+      @keyframes pulseSubtle {
+        0%, 100% { transform: scale(1); opacity: 1; }
+        50% { transform: scale(1.05); opacity: 0.8; }
+      }
+
+      @keyframes panelSway {
+        0% { transform: rotate(0deg); }
+        25% { transform: rotate(0.4deg); }
+        50% { transform: rotate(0deg); }
+        75% { transform: rotate(-0.4deg); }
+        100% { transform: rotate(0deg); }
+      }
+
+      .animate-slide-in {
+        animation: slideUp 0.25s ease-out forwards;
+      }
+
+      .animate-slide-forward {
+        animation: slideForward 0.4s var(--ease-out-expo) forwards;
+      }
+
+      .animate-slide-backward {
+        animation: slideBackward 0.4s var(--ease-out-expo) forwards;
+      }
+
+      .animate-pulse-subtle {
+        animation: pulseSubtle 3s ease-in-out infinite;
+      }
+
+      .animate-panel-sway {
+        animation: panelSway 8s ease-in-out infinite;
+      }
+
+      .gpu-accelerated {
+        will-change: transform;
+        transform: translateZ(0);
+      }
+
+      .glass-header {
+        backdrop-filter: blur(30px) saturate(180%);
+        -webkit-backdrop-filter: blur(30px) saturate(180%);
+      }
+
+      .contain-layout {
+        contain: layout;
+      }
+      
+      .tap-highlight-none {
+        -webkit-tap-highlight-color: transparent;
+      }
+      
+      img {
+        /* Removed content-visibility: auto as it causes layout/rendering bugs in absolute-positioned containers */
+      }
+
+      @media (prefers-reduced-motion: no-preference) {
+        .scroll-container {
+          scroll-behavior: auto !important;
+        }
+      }
+    </style>
+  <link rel="stylesheet" href="/src/index.css">
+  <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&display=swap" rel="stylesheet">
+</head>
+  <body>
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
