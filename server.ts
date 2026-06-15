@@ -1079,7 +1079,7 @@ async function startServer() {
           coverUrl,
           date: dateStr,
           releaseDate,
-          tag: 'NaughtyAmerica',
+          tag: siteTitle,
           site: siteTitle,
           link
         });
