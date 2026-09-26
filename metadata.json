@@ -1,0 +1,8 @@
+{
+  "name": "Magnetio",
+  "description": "Configure, format, and unify your Stremio streaming sources into one personalized, high-performance addon with a live visual editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
